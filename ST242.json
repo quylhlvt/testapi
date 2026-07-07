@@ -1,0 +1,6241 @@
+{
+  "1": [
+    {
+      "position": "1",
+      "parts": "1-15-1",
+      "colorArray": "000000,201b2b,480000,979797,afb1b8,b0c1aa,d1cbb3,d9bea5,efd4d4,f6fae0,fbeae5,ff0500",
+      "quantity": 4,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "10-21-1",
+      "colorArray": "4F4C64,778389,897783,918c9c,A09DB7",
+      "quantity": 6,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "11-42-2",
+      "colorArray": "4d496c,aeb7bc,b0afbc,bcafb8,c0b8cc",
+      "quantity": 6,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "12-6-1",
+      "colorArray": "",
+      "quantity": 12,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "13-26-2",
+      "colorArray": "",
+      "quantity": 11,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "14-3-1",
+      "colorArray": "a09d9b,afb5c0,b7b7bc,b9a6a6,caddfd,caeee5,e8c9c8",
+      "quantity": 6,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "15-4-1",
+      "colorArray": "EAD4C0,F5F5F5,FCF8F8",
+      "quantity": 6,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "16-7-1",
+      "colorArray": "232323,BF6868,ECD6C3",
+      "quantity": 7,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "17-8-1",
+      "colorArray": "000000,ECD6C3,FF0000",
+      "quantity": 6,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "18-29-2",
+      "colorArray": "",
+      "quantity": 5,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "19-20-1",
+      "colorArray": "",
+      "quantity": 5,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "2-35-2",
+      "colorArray": "000000,460000,9a4e01,9a9a9a,b1c3ad,d3cdb3,e1eef4,efd5d5,f5fadf,fbeae6,ff0200",
+      "quantity": 8,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "20-5-1",
+      "colorArray": "000000,4A4A4A,757884,800000,83976E,B599A1,BD9F81,FF6000,ffffff",
+      "quantity": 7,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "21-41-2",
+      "colorArray": "",
+      "quantity": 7,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "22-43-2",
+      "colorArray": "",
+      "quantity": 9,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "23-22-2",
+      "colorArray": "87D3D5,94C2FF,D98F96,FFBABA,FFDEC3,b29d9d,bbbabf,c1d6fe,c3c3c9,c8c1bc",
+      "quantity": 7,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "24-25-2",
+      "colorArray": "000000,555062,800000,83976E,B599A1,BB7D2B,E2B5B5,FF6000",
+      "quantity": 6,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "25-23-2",
+      "colorArray": "e7d0bd,f7f7f7,fcf9f9",
+      "quantity": 6,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "26-9-1",
+      "colorArray": "",
+      "quantity": 5,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "27-27-2",
+      "colorArray": "000000,ECD6C3,FF0000",
+      "quantity": 9,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "28-28-2",
+      "colorArray": "ECD6C3,FFFFFF",
+      "quantity": 9,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "29-11-1",
+      "colorArray": "000000,272136,460000,989898,B0B2B9,B1C2AC,D1CCB2,D9BFA6,EED5D5,F6FAE2,FCEBE7,FF0000",
+      "quantity": 10,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "3-14-1",
+      "colorArray": "000000,272136,480000,959595,b0b2b9,b0c1ab,d1cbb2,d9bea5,eed4d4,f6fae1,fbeae6,ff0300",
+      "quantity": 5,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "30-10-1",
+      "colorArray": "000000,272136,480000,989898,B0B2B9,B1C2AC,D1CCB2,D9BFA6,EED5D5,F6FAE2,FCEBE7,FF0000",
+      "quantity": 16,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "31-16-1",
+      "colorArray": "000000,272135,450000,989898,b1b3ba,b2c3ad,d2ccb3,dabfa5,efd5d5,f7fbe3,fcebe7,fe0300",
+      "quantity": 7,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "32-17-1",
+      "colorArray": "000000,D7D5D9,E1EFEF,F0F0F2,F0FFC5,F8E1CD,FBF7F7,FF0000",
+      "quantity": 3,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "33-12-1",
+      "colorArray": "000000,600000,757575,9598A1,9CAE90,C4B5AA,CDB095,E9C6C6,F3F9D8,FBEAE4,FF1A00",
+      "quantity": 5,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "34-18-1",
+      "colorArray": "6986A0,6AA179,7F7FA0,A16A6D,A16A84,CFE3C3,D5F0FC,D6D6DA,F7CCD7,FFF8EB",
+      "quantity": 13,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "35-19-1",
+      "colorArray": "6986A0,6AA179,7F7FA0,A16A6D,A16A84,CFE3C3,D5F0FC,D6D6DA,F7CCD7,FFF8EB",
+      "quantity": 13,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "36-32-2",
+      "colorArray": "000000,4c0000,979797,9f5404,b0c2aa,d0c8b2,deecf3,f0d5d5,f6fae1,fbeae5,fe0700",
+      "quantity": 11,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "37-31-2",
+      "colorArray": "000000,480000,969696,9a4f01,9d9aa4,acacac,b0c1ab,d1cbb2,e2eef5,eed4d4,f6fae1,fbeae6,fe0200,fefefd",
+      "quantity": 15,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "38-37-2",
+      "colorArray": "000000,460000,989898,9a4e01,b1c2ac,d3ceb4,e3eff5,efd6d6,f6fae2,fbebe7,fe0200",
+      "quantity": 7,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "39-38-2",
+      "colorArray": "000000,964a20,9d9d9e,b4c5b0,d1cab2,efd6d6,f03e16",
+      "quantity": 3,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "4-13-1",
+      "colorArray": "000000,322c40,430000,9c9c9c,b3b5bc,b3c4af,d3ceb3,dac0a7,efd6d6,f7fbe3,fbebe7,fe0100",
+      "quantity": 15,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "40-30-2",
+      "colorArray": "",
+      "quantity": 4,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "41-33-2",
+      "colorArray": "000000,4f0000,858585,9f5501,a7b99f,cbc2ae,deecf3,ebcccc,f4f9dd,fbeae4,ff0a00",
+      "quantity": 7,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "42-39-2",
+      "colorArray": "6986A0,6AA179,7F7FA0,A16A6D,A16A84,CFE3C3,D5F0FC,D6D6DA",
+      "quantity": 13,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "43-40-2",
+      "colorArray": "6986A0,6AA179,7F7FA0,A16A6D,A16A84,CFE3C3,D5F0FC,D6D6DA",
+      "quantity": 13,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "44-48-1",
+      "colorArray": "",
+      "quantity": 7,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "45-44-1",
+      "colorArray": "",
+      "quantity": 9,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "46-45-2",
+      "colorArray": "",
+      "quantity": 9,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "47-46-1",
+      "colorArray": "",
+      "quantity": 9,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "48-47-2",
+      "colorArray": "",
+      "quantity": 9,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "5-34-2",
+      "colorArray": "000000,430000,974b00,9b9b9b,b3c4af,d3ceb3,e4f0f5,efd6d6,f6fae3,fbebe7,fe0100",
+      "quantity": 14,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "6-1-1",
+      "colorArray": "",
+      "quantity": 4,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "7-36-2",
+      "colorArray": "000000,460000,999999,9a4f00,b1c3ad,d2ccb3,e3eff5,efd5d5,f6fae2,fbebe6,ff0100",
+      "quantity": 6,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "8-24-2",
+      "colorArray": "",
+      "quantity": 9,
+      "level": 1
+    },
+    {
+      "position": "1",
+      "parts": "9-2-1",
+      "colorArray": "",
+      "quantity": 9,
+      "level": 1
+    }
+  ],
+  "10": [
+    {
+      "position": "10",
+      "parts": "1-34-1",
+      "colorArray": "B5E4F5,CCEBA2,D1D1D1,D8B5F5,EBA5A2,F5DEB5",
+      "quantity": 2,
+      "level": 2
+    },
+    {
+      "position": "10",
+      "parts": "10-7-2",
+      "colorArray": "",
+      "quantity": 9,
+      "level": 2
+    },
+    {
+      "position": "10",
+      "parts": "11-29-2",
+      "colorArray": "000000,FFFFFF",
+      "quantity": 14,
+      "level": 2
+    },
+    {
+      "position": "10",
+      "parts": "12-28-2",
+      "colorArray": "000000,FFFFFF",
+      "quantity": 14,
+      "level": 2
+    },
+    {
+      "position": "10",
+      "parts": "13-32-2",
+      "colorArray": "",
+      "quantity": 7,
+      "level": 2
+    },
+    {
+      "position": "10",
+      "parts": "14-25-2",
+      "colorArray": "444444,EEEEEE",
+      "quantity": 6,
+      "level": 2
+    },
+    {
+      "position": "10",
+      "parts": "15-27-2",
+      "colorArray": "",
+      "quantity": 6,
+      "level": 2
+    },
+    {
+      "position": "10",
+      "parts": "16-26-2",
+      "colorArray": "444444,EEEEEE",
+      "quantity": 4,
+      "level": 2
+    },
+    {
+      "position": "10",
+      "parts": "17-31-2",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 2
+    },
+    {
+      "position": "10",
+      "parts": "18-22-2",
+      "colorArray": "444444,5E955C,6F7FA8,917AAF,A17F6C,A2A2A2,A4FFD9,BAEDFF,CAEFBC,DF8985,E8D3FF,EEEEEE,FFBB88,FFCCEF,FFDF8F",
+      "quantity": 8,
+      "level": 2
+    },
+    {
+      "position": "10",
+      "parts": "19-21-2",
+      "colorArray": "444444,5E955C,6F7FA8,917AAF,A17F6C,A2A2A2,A4FFD9,BAEDFF,CAEFBC,DF8985,E8D3FF,EEEEEE,FFBB88,FFCCEF,FFDF8F",
+      "quantity": 8,
+      "level": 2
+    },
+    {
+      "position": "10",
+      "parts": "2-33-1",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 2
+    },
+    {
+      "position": "10",
+      "parts": "20-20-2",
+      "colorArray": "444444,5E955C,6F7FA8,917AAF,A17F6C,A2A2A2,A4FFD9,BAEDFF,CAEFBC,DF8985,E8D3FF,EEEEEE,FFBB88,FFCCEF,FFDF8F",
+      "quantity": 6,
+      "level": 2
+    },
+    {
+      "position": "10",
+      "parts": "21-19-2",
+      "colorArray": "444444,5E955C,6F7FA8,917AAF,A17F6C,A2A2A2,A4FFD9,BAEDFF,CAEFBC,DF8985,E8D3FF,EEEEEE,FFBB88,FFCCEF,FFDF8F",
+      "quantity": 10,
+      "level": 2
+    },
+    {
+      "position": "10",
+      "parts": "22-30-2",
+      "colorArray": "444444,5E955C,6F7FA8,917AAF,A17F6C,A2A2A2,A4FFD9,BAEDFF,CAEFBC,DF8985,E8D3FF,EEEEEE,FFBB88,FFCCEF,FFDF8F",
+      "quantity": 5,
+      "level": 2
+    },
+    {
+      "position": "10",
+      "parts": "23-1-1",
+      "colorArray": "",
+      "quantity": 2,
+      "level": 2
+    },
+    {
+      "position": "10",
+      "parts": "24-10-1",
+      "colorArray": "444444,5E955C,6F7FA8,917AAF,A17F6C,A2A2A2,A4FFD9,BAEDFF,CAEFBC,DF8985,E8D3FF,EEEEEE,FFBB88,FFCCEF,FFDF8F",
+      "quantity": 6,
+      "level": 2
+    },
+    {
+      "position": "10",
+      "parts": "25-9-1",
+      "colorArray": "444444,5E955C,6F7FA8,917AAF,A17F6C,A2A2A2,A4FFD9,BAEDFF,CAEFBC,DF8985,E8D3FF,EEEEEE,FFBB88,FFCCEF,FFDF8F",
+      "quantity": 5,
+      "level": 2
+    },
+    {
+      "position": "10",
+      "parts": "26-18-1",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 2
+    },
+    {
+      "position": "10",
+      "parts": "27-8-1",
+      "colorArray": "",
+      "quantity": 30,
+      "level": 2
+    },
+    {
+      "position": "10",
+      "parts": "28-15-1",
+      "colorArray": "444444,EEEEEE",
+      "quantity": 6,
+      "level": 2
+    },
+    {
+      "position": "10",
+      "parts": "29-16-1",
+      "colorArray": "444444,EEEEEE",
+      "quantity": 3,
+      "level": 2
+    },
+    {
+      "position": "10",
+      "parts": "3-23-2",
+      "colorArray": "444444,5E955C,6F7FA8,917AAF,A17F6C,A2A2A2,A4FFD9,BAEDFF,CAEFBC,DF8985,E8D3FF,EEEEEE,FFBB88,FFCCEF,FFDF8F",
+      "quantity": 13,
+      "level": 2
+    },
+    {
+      "position": "10",
+      "parts": "30-17-1",
+      "colorArray": "",
+      "quantity": 7,
+      "level": 2
+    },
+    {
+      "position": "10",
+      "parts": "31-14-1",
+      "colorArray": "",
+      "quantity": 30,
+      "level": 2
+    },
+    {
+      "position": "10",
+      "parts": "32-11-1",
+      "colorArray": "444444,5E955C,6F7FA8,917AAF,A17F6C,A2A2A2,A4FFD9,BAEDFF,CAEFBC,DF8985,E8D3FF,EEEEEE,FFBB88,FFCCEF,FFDF8F",
+      "quantity": 13,
+      "level": 2
+    },
+    {
+      "position": "10",
+      "parts": "33-12-1",
+      "colorArray": "444444,5E955C,6F7FA8,917AAF,A17F6C,A2A2A2,A4FFD9,BAEDFF,CAEFBC,DF8985,E8D3FF,EEEEEE,FFBB88,FFCCEF,FFDF8F",
+      "quantity": 14,
+      "level": 2
+    },
+    {
+      "position": "10",
+      "parts": "34-13-1",
+      "colorArray": "444444,5E955C,6F7FA8,917AAF,A17F6C,A2A2A2,A4FFD9,BAEDFF,CAEFBC,DF8985,E8D3FF,EEEEEE,FFBB88,FFCCEF,FFDF8F",
+      "quantity": 4,
+      "level": 2
+    },
+    {
+      "position": "10",
+      "parts": "4-2-2",
+      "colorArray": "",
+      "quantity": 2,
+      "level": 2
+    },
+    {
+      "position": "10",
+      "parts": "5-24-2",
+      "colorArray": "444444,5E955C,6F7FA8,917AAF,A17F6C,A2A2A2,A4FFD9,BAEDFF,CAEFBC,DF8985,E8D3FF,EEEEEE,FFBB88,FFCCEF,FFDF8F",
+      "quantity": 16,
+      "level": 2
+    },
+    {
+      "position": "10",
+      "parts": "6-3-2",
+      "colorArray": "444444,5E955C,6F7FA8,917AAF,A17F6C,A2A2A2,A4FFD9,BAEDFF,CAEFBC,DF8985,E8D3FF,EEEEEE,FFBB88,FFCCEF,FFDF8F",
+      "quantity": 10,
+      "level": 2
+    },
+    {
+      "position": "10",
+      "parts": "7-4-2",
+      "colorArray": "444444,5E955C,6F7FA8,917AAF,A17F6C,A2A2A2,A4FFD9,BAEDFF,CAEFBC,DF8985,E8D3FF,EEEEEE,FFBB88,FFCCEF,FFDF8F",
+      "quantity": 10,
+      "level": 2
+    },
+    {
+      "position": "10",
+      "parts": "8-5-2",
+      "colorArray": "",
+      "quantity": 11,
+      "level": 2
+    },
+    {
+      "position": "10",
+      "parts": "9-6-2",
+      "colorArray": "",
+      "quantity": 4,
+      "level": 2
+    }
+  ],
+  "11": [
+    {
+      "position": "11",
+      "parts": "1-33-1",
+      "colorArray": "",
+      "quantity": 6,
+      "level": 3
+    },
+    {
+      "position": "11",
+      "parts": "10-3-2",
+      "colorArray": "CFE2F3,D17575,D9D2E9,D9EAD3,FCE5CD",
+      "quantity": 6,
+      "level": 3
+    },
+    {
+      "position": "11",
+      "parts": "11-4-1",
+      "colorArray": "CFE2F3,D9D2E9,D9EAD3,E8ACAC,ECDEB8",
+      "quantity": 6,
+      "level": 3
+    },
+    {
+      "position": "11",
+      "parts": "12-11-2",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 3
+    },
+    {
+      "position": "11",
+      "parts": "13-12-1",
+      "colorArray": "",
+      "quantity": 2,
+      "level": 3
+    },
+    {
+      "position": "11",
+      "parts": "14-5-2",
+      "colorArray": "",
+      "quantity": 7,
+      "level": 3
+    },
+    {
+      "position": "11",
+      "parts": "15-6-1",
+      "colorArray": "",
+      "quantity": 5,
+      "level": 3
+    },
+    {
+      "position": "11",
+      "parts": "16-13-2",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 3
+    },
+    {
+      "position": "11",
+      "parts": "17-14-1",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 3
+    },
+    {
+      "position": "11",
+      "parts": "18-21-2",
+      "colorArray": "504E4E,CFE2F3,D3D2D2,D69C68,DDE2A4,E45959,FFFFFF",
+      "quantity": 5,
+      "level": 3
+    },
+    {
+      "position": "11",
+      "parts": "19-22-1",
+      "colorArray": "444444,B5D1ED,CCCCCC,DA945D,E06666,FFF2CC,FFFFFF",
+      "quantity": 4,
+      "level": 3
+    },
+    {
+      "position": "11",
+      "parts": "2-1-2",
+      "colorArray": "",
+      "quantity": 1,
+      "level": 3
+    },
+    {
+      "position": "11",
+      "parts": "20-27-2",
+      "colorArray": "",
+      "quantity": 6,
+      "level": 3
+    },
+    {
+      "position": "11",
+      "parts": "21-17-2",
+      "colorArray": "444444,9FC5E8,CCCCCC,FF0000,FF9900,FFFF00,FFFFFF",
+      "quantity": 10,
+      "level": 3
+    },
+    {
+      "position": "11",
+      "parts": "22-23-2",
+      "colorArray": "666666,6671D8,CCCCCC,FF0000,FF9900,FFFF00,FFFFFF",
+      "quantity": 3,
+      "level": 3
+    },
+    {
+      "position": "11",
+      "parts": "23-19-2",
+      "colorArray": "444444,9FC5E8,CCCCCC,FF0000,FF9900,FFFF00,FFFFFF",
+      "quantity": 5,
+      "level": 3
+    },
+    {
+      "position": "11",
+      "parts": "24-28-1",
+      "colorArray": "",
+      "quantity": 6,
+      "level": 3
+    },
+    {
+      "position": "11",
+      "parts": "25-20-1",
+      "colorArray": "444444,6FA8DC,CCCCCC,FF0000,FF9900,FFFFFF",
+      "quantity": 4,
+      "level": 3
+    },
+    {
+      "position": "11",
+      "parts": "26-18-1",
+      "colorArray": "4275DD,444444,CCCCCC,F3F3F3,FF0000,FF9900,FFFF00",
+      "quantity": 3,
+      "level": 3
+    },
+    {
+      "position": "11",
+      "parts": "27-7-2",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 3
+    },
+    {
+      "position": "11",
+      "parts": "28-8-1",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 3
+    },
+    {
+      "position": "11",
+      "parts": "29-24-1",
+      "colorArray": "666666,9FC5E8,CCCCCC,FF0000,FF9900,FFFF00,FFFFFF",
+      "quantity": 2,
+      "level": 3
+    },
+    {
+      "position": "11",
+      "parts": "3-29-2",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 3
+    },
+    {
+      "position": "11",
+      "parts": "30-16-2",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 3
+    },
+    {
+      "position": "11",
+      "parts": "31-15-1",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 3
+    },
+    {
+      "position": "11",
+      "parts": "32-25-2",
+      "colorArray": "",
+      "quantity": 5,
+      "level": 3
+    },
+    {
+      "position": "11",
+      "parts": "33-26-1",
+      "colorArray": "",
+      "quantity": 5,
+      "level": 3
+    },
+    {
+      "position": "11",
+      "parts": "4-30-2",
+      "colorArray": "",
+      "quantity": 2,
+      "level": 3
+    },
+    {
+      "position": "11",
+      "parts": "5-2-1",
+      "colorArray": "",
+      "quantity": 1,
+      "level": 3
+    },
+    {
+      "position": "11",
+      "parts": "6-31-1",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 3
+    },
+    {
+      "position": "11",
+      "parts": "7-32-1",
+      "colorArray": "",
+      "quantity": 2,
+      "level": 3
+    },
+    {
+      "position": "11",
+      "parts": "8-9-2",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 3
+    },
+    {
+      "position": "11",
+      "parts": "9-10-1",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 3
+    }
+  ],
+  "12": [
+    {
+      "position": "12",
+      "parts": "1-37-1",
+      "colorArray": "D8CFC5,EEEEEE,FFFFFF",
+      "quantity": 9,
+      "level": 4
+    },
+    {
+      "position": "12",
+      "parts": "10-7-2",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 4
+    },
+    {
+      "position": "12",
+      "parts": "11-8-2",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 4
+    },
+    {
+      "position": "12",
+      "parts": "12-9-2",
+      "colorArray": "",
+      "quantity": 2,
+      "level": 4
+    },
+    {
+      "position": "12",
+      "parts": "13-10-2",
+      "colorArray": "",
+      "quantity": 4,
+      "level": 4
+    },
+    {
+      "position": "12",
+      "parts": "14-4-2",
+      "colorArray": "",
+      "quantity": 8,
+      "level": 4
+    },
+    {
+      "position": "12",
+      "parts": "15-13-2",
+      "colorArray": "65666A,715746,736051,79778F,848D80,9485AE,AB8674,AF6A6F,B1D4DC,C3AFA6,CFAFC5,D0977A,DCDCDC,ECE1C1",
+      "quantity": 15,
+      "level": 4
+    },
+    {
+      "position": "12",
+      "parts": "16-17-2",
+      "colorArray": "",
+      "quantity": 8,
+      "level": 4
+    },
+    {
+      "position": "12",
+      "parts": "17-18-2",
+      "colorArray": "",
+      "quantity": 26,
+      "level": 4
+    },
+    {
+      "position": "12",
+      "parts": "18-14-2",
+      "colorArray": "65666A,715746,736051,79778F,848D80,9485AE,AB8674,AF6A6F,B1D4DC,C3AFA6,CFAFC5,D0977A,DCDCDC,ECE1C1",
+      "quantity": 4,
+      "level": 4
+    },
+    {
+      "position": "12",
+      "parts": "19-34-1",
+      "colorArray": "65666A,FFFFFF",
+      "quantity": 7,
+      "level": 4
+    },
+    {
+      "position": "12",
+      "parts": "2-38-1",
+      "colorArray": "",
+      "quantity": 12,
+      "level": 4
+    },
+    {
+      "position": "12",
+      "parts": "20-35-1",
+      "colorArray": "65666A,BFADA1,FAF9F3",
+      "quantity": 11,
+      "level": 4
+    },
+    {
+      "position": "12",
+      "parts": "21-24-1",
+      "colorArray": "A4CAD2,ADB9C2,ADD2A4,B0C2AD,B2ADC2,B8ADA9,C2ADC1,C8AA9C,CBA4D2,D2A4A8,D2D2A4",
+      "quantity": 2,
+      "level": 4
+    },
+    {
+      "position": "12",
+      "parts": "22-29-1",
+      "colorArray": "",
+      "quantity": 2,
+      "level": 4
+    },
+    {
+      "position": "12",
+      "parts": "23-26-1",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 4
+    },
+    {
+      "position": "12",
+      "parts": "24-27-1",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 4
+    },
+    {
+      "position": "12",
+      "parts": "25-36-1",
+      "colorArray": "",
+      "quantity": 8,
+      "level": 4
+    },
+    {
+      "position": "12",
+      "parts": "26-23-1",
+      "colorArray": "",
+      "quantity": 8,
+      "level": 4
+    },
+    {
+      "position": "12",
+      "parts": "27-22-1",
+      "colorArray": "",
+      "quantity": 12,
+      "level": 4
+    },
+    {
+      "position": "12",
+      "parts": "28-30-1",
+      "colorArray": "",
+      "quantity": 6,
+      "level": 4
+    },
+    {
+      "position": "12",
+      "parts": "29-31-1",
+      "colorArray": "65666A,715746,736051,79778F,848D80,9485AE,AB8674,AF6A6F,B1D4DC,C3AFA6,CFAFC5,D0977A,DCDCDC,ECE1C1",
+      "quantity": 20,
+      "level": 4
+    },
+    {
+      "position": "12",
+      "parts": "3-1-1",
+      "colorArray": "",
+      "quantity": 1,
+      "level": 4
+    },
+    {
+      "position": "12",
+      "parts": "30-19-2",
+      "colorArray": "",
+      "quantity": 8,
+      "level": 4
+    },
+    {
+      "position": "12",
+      "parts": "31-20-2",
+      "colorArray": "",
+      "quantity": 5,
+      "level": 4
+    },
+    {
+      "position": "12",
+      "parts": "32-25-1",
+      "colorArray": "",
+      "quantity": 24,
+      "level": 4
+    },
+    {
+      "position": "12",
+      "parts": "33-28-1",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 4
+    },
+    {
+      "position": "12",
+      "parts": "34-12-2",
+      "colorArray": "65666A,715746,736051,79778F,848D80,9485AE,AB8674,AF6A6F,B1D4DC,C3AFA6,CFAFC5,D0977A,DCDCDC,ECE1C1",
+      "quantity": 7,
+      "level": 4
+    },
+    {
+      "position": "12",
+      "parts": "35-11-2",
+      "colorArray": "65666A,715746,736051,79778F,848D80,9485AE,AB8674,AF6A6F,B1D4DC,C3AFA6,CFAFC5,D0977A,DCDCDC,ECE1C1",
+      "quantity": 18,
+      "level": 4
+    },
+    {
+      "position": "12",
+      "parts": "36-15-2",
+      "colorArray": "",
+      "quantity": 17,
+      "level": 4
+    },
+    {
+      "position": "12",
+      "parts": "37-33-1",
+      "colorArray": "65666A,715746,736051,79778F,848D80,907EA5,AB8674,AF6A6F,B1D4DC,C3AFA6,CFAFC5,D0977A,DCDCDC,ECE1C1",
+      "quantity": 3,
+      "level": 4
+    },
+    {
+      "position": "12",
+      "parts": "38-16-2",
+      "colorArray": "65666A,715746,736051,79778F,848D80,9485AE,AB8674,AF6A6F,B1D4DC,C3AFA6,CFAFC5,D0977A,DCDCDC,ECE1C1",
+      "quantity": 3,
+      "level": 4
+    },
+    {
+      "position": "12",
+      "parts": "4-21-1",
+      "colorArray": "",
+      "quantity": 4,
+      "level": 4
+    },
+    {
+      "position": "12",
+      "parts": "5-32-1",
+      "colorArray": "65666A,715746,736051,79778F,848D80,9485AE,AB8674,AF6A6F,B1D4DC,C3AFA6,CFAFC5,D0977A,DCDCDC,ECE1C1",
+      "quantity": 11,
+      "level": 4
+    },
+    {
+      "position": "12",
+      "parts": "6-2-2",
+      "colorArray": "",
+      "quantity": 4,
+      "level": 4
+    },
+    {
+      "position": "12",
+      "parts": "7-5-2",
+      "colorArray": "A4CAD2,ADB9C2,ADD2A4,B0C2AD,B2ADC2,B8ADA9,C2ADC1,C8AA9C,CBA4D2,D2A4A8,D2D2A4",
+      "quantity": 2,
+      "level": 4
+    },
+    {
+      "position": "12",
+      "parts": "8-3-2",
+      "colorArray": "",
+      "quantity": 10,
+      "level": 4
+    },
+    {
+      "position": "12",
+      "parts": "9-6-2",
+      "colorArray": "",
+      "quantity": 20,
+      "level": 4
+    }
+  ],
+  "13": [
+    {
+      "position": "13",
+      "parts": "1-29-1",
+      "colorArray": "B5FFD1,CFE2FF,FFB9D8,FFF2CC",
+      "quantity": 4,
+      "level": 5
+    },
+    {
+      "position": "13",
+      "parts": "10-15-2",
+      "colorArray": "000000,0000FF,00AB00,28DAFF,824A10,9900FF,BFD2D6,FF0000,FFCBE2,FFD966",
+      "quantity": 13,
+      "level": 5
+    },
+    {
+      "position": "13",
+      "parts": "11-4-1",
+      "colorArray": "",
+      "quantity": 18,
+      "level": 5
+    },
+    {
+      "position": "13",
+      "parts": "12-17-2",
+      "colorArray": "",
+      "quantity": 18,
+      "level": 5
+    },
+    {
+      "position": "13",
+      "parts": "13-5-1",
+      "colorArray": "",
+      "quantity": 10,
+      "level": 5
+    },
+    {
+      "position": "13",
+      "parts": "14-18-2",
+      "colorArray": "",
+      "quantity": 10,
+      "level": 5
+    },
+    {
+      "position": "13",
+      "parts": "15-23-2",
+      "colorArray": "0000FF,288200,444444,9900FF,A0FFA0,CAE6FF,D4C8BC,E69138,F3F3F3,FF0000,FFD3E6,FFF2CC",
+      "quantity": 7,
+      "level": 5
+    },
+    {
+      "position": "13",
+      "parts": "16-10-1",
+      "colorArray": "0000FF,029102,444444,9900FF,A4FFA4,CDE8FF,DCCBBB,E69138,F3F3F3,FF0000,FFD3E6,FFF2CC",
+      "quantity": 7,
+      "level": 5
+    },
+    {
+      "position": "13",
+      "parts": "17-28-1",
+      "colorArray": "00FFFF,FFBEEF",
+      "quantity": 15,
+      "level": 5
+    },
+    {
+      "position": "13",
+      "parts": "18-6-1",
+      "colorArray": "",
+      "quantity": 6,
+      "level": 5
+    },
+    {
+      "position": "13",
+      "parts": "19-19-2",
+      "colorArray": "",
+      "quantity": 6,
+      "level": 5
+    },
+    {
+      "position": "13",
+      "parts": "2-9-1",
+      "colorArray": "0000FF,2C8702,444444,9900FF,AAFFA8,C0E1FF,D6CDC4,E69138,F3F3F3,FF0000,FFE0EE,FFF2CC",
+      "quantity": 28,
+      "level": 5
+    },
+    {
+      "position": "13",
+      "parts": "20-14-1",
+      "colorArray": "",
+      "quantity": 7,
+      "level": 5
+    },
+    {
+      "position": "13",
+      "parts": "21-27-2",
+      "colorArray": "",
+      "quantity": 7,
+      "level": 5
+    },
+    {
+      "position": "13",
+      "parts": "22-8-1",
+      "colorArray": "0000FF,109200,444444,9900FF,A6FFA0,C8E5FF,CEC3B7,E69138,F3F3F3,FF0000,FFCDE3,FFF2CC",
+      "quantity": 6,
+      "level": 5
+    },
+    {
+      "position": "13",
+      "parts": "23-21-2",
+      "colorArray": "0000FF,288500,444444,9900FF,AFFFB5,C6E4FF,D8CDC1,E69138,F3F3F3,FF0000,FFD5E7,FFF2CC",
+      "quantity": 6,
+      "level": 5
+    },
+    {
+      "position": "13",
+      "parts": "24-7-1",
+      "colorArray": "0000FF,02851D,444444,9900FF,9BEAFF,AFFFCA,DCCFC3,DD8500,EEEEEE,FF0000,FFBCE6,FFF2CC",
+      "quantity": 24,
+      "level": 5
+    },
+    {
+      "position": "13",
+      "parts": "25-11-1",
+      "colorArray": "0000FF,38761D,444444,9900FF,9EFF9E,B7DDFF,CBC0B5,E69138,F3F3F3,FF0000,FFBEDB,FFF2CC",
+      "quantity": 7,
+      "level": 5
+    },
+    {
+      "position": "13",
+      "parts": "26-13-1",
+      "colorArray": "CDE8FF,FFBBD9,FFF2CC",
+      "quantity": 19,
+      "level": 5
+    },
+    {
+      "position": "13",
+      "parts": "27-20-2",
+      "colorArray": "0000FF,009639,444444,8CFFB2,9900FF,BBE1FF,DACFCB,E78F32,F3F3F3,FF0000,FFCDE8,FFF2CC",
+      "quantity": 24,
+      "level": 5
+    },
+    {
+      "position": "13",
+      "parts": "28-24-2",
+      "colorArray": "0000FF,309E00,444444,9900FF,A0FF9E,C2E2FF,D4CABF,E69138,F3F3F3,FF0000,FFCDE3,FFF2CC",
+      "quantity": 7,
+      "level": 5
+    },
+    {
+      "position": "13",
+      "parts": "29-26-2",
+      "colorArray": "CAE6FF,FFD5E7,FFF2CC",
+      "quantity": 19,
+      "level": 5
+    },
+    {
+      "position": "13",
+      "parts": "3-22-2",
+      "colorArray": "0000FF,2A8204,444444,95FFB4,9900FF,C2E2FF,DCCCBC,E69138,F3F3F3,FF0000,FFD9E9,FFF2CC",
+      "quantity": 28,
+      "level": 5
+    },
+    {
+      "position": "13",
+      "parts": "4-1-1",
+      "colorArray": "",
+      "quantity": 10,
+      "level": 5
+    },
+    {
+      "position": "13",
+      "parts": "5-3-1",
+      "colorArray": "",
+      "quantity": 5,
+      "level": 5
+    },
+    {
+      "position": "13",
+      "parts": "6-16-2",
+      "colorArray": "",
+      "quantity": 5,
+      "level": 5
+    },
+    {
+      "position": "13",
+      "parts": "7-25-2",
+      "colorArray": "",
+      "quantity": 18,
+      "level": 5
+    },
+    {
+      "position": "13",
+      "parts": "8-12-1",
+      "colorArray": "",
+      "quantity": 19,
+      "level": 5
+    },
+    {
+      "position": "13",
+      "parts": "9-2-1",
+      "colorArray": "000000,0000FF,00B634,783F04,79D6FF,9900FF,BFCCCE,FF0000,FFC6DF,FFD966",
+      "quantity": 13,
+      "level": 5
+    }
+  ],
+  "14": [
+    {
+      "position": "14",
+      "parts": "1-1-1",
+      "colorArray": "",
+      "quantity": 1,
+      "level": 6
+    },
+    {
+      "position": "14",
+      "parts": "10-6-1",
+      "colorArray": "",
+      "quantity": 5,
+      "level": 6
+    },
+    {
+      "position": "14",
+      "parts": "11-8-1",
+      "colorArray": "0B5394,444444,76A5AF,8E7CC3,93C47D,C27BA0,E06666,F6B26B,FFD966,FFFFFF",
+      "quantity": 10,
+      "level": 6
+    },
+    {
+      "position": "14",
+      "parts": "12-23-2",
+      "colorArray": "0B5394,444444,76A5AF,8E7CC3,93C47D,C27BA0,E06666,F6B26B,FFD966,FFFFFF",
+      "quantity": 6,
+      "level": 6
+    },
+    {
+      "position": "14",
+      "parts": "13-24-2",
+      "colorArray": "0B5394,444444,76A5AF,8E7CC3,93C47D,C27BA0,E06666,F6B26B,FFD966,FFFFFF",
+      "quantity": 5,
+      "level": 6
+    },
+    {
+      "position": "14",
+      "parts": "14-15-2",
+      "colorArray": "000000,0B5394,76A5AF,8E7CC3,93C47D,C27BA0,E06666,F6B26B,FFD966,FFFFFF",
+      "quantity": 7,
+      "level": 6
+    },
+    {
+      "position": "14",
+      "parts": "15-16-2",
+      "colorArray": "",
+      "quantity": 5,
+      "level": 6
+    },
+    {
+      "position": "14",
+      "parts": "16-18-2",
+      "colorArray": "",
+      "quantity": 11,
+      "level": 6
+    },
+    {
+      "position": "14",
+      "parts": "17-17-2",
+      "colorArray": "",
+      "quantity": 8,
+      "level": 6
+    },
+    {
+      "position": "14",
+      "parts": "18-20-2",
+      "colorArray": "",
+      "quantity": 5,
+      "level": 6
+    },
+    {
+      "position": "14",
+      "parts": "19-19-2",
+      "colorArray": "",
+      "quantity": 5,
+      "level": 6
+    },
+    {
+      "position": "14",
+      "parts": "2-2-1",
+      "colorArray": "000000,0B5394,76A5AF,8E7CC3,93C47D,C27BA0,E06666,F6B26B,FFD966,FFFFFF",
+      "quantity": 7,
+      "level": 6
+    },
+    {
+      "position": "14",
+      "parts": "20-21-2",
+      "colorArray": "0B5394,444444,76A5AF,8E7CC3,93C47D,C27BA0,E06666,F6B26B,FFD966,FFFFFF",
+      "quantity": 10,
+      "level": 6
+    },
+    {
+      "position": "14",
+      "parts": "21-22-2",
+      "colorArray": "0B5394,444444,76A5AF,8E7CC3,93C47D,C27BA0,E06666,F6B26B,FFD966,FFFFFF",
+      "quantity": 2,
+      "level": 6
+    },
+    {
+      "position": "14",
+      "parts": "22-25-2",
+      "colorArray": "0B5394,444444,76A5AF,8E7CC3,93C47D,C27BA0,E06666,F6B26B,FFD966,FFFFFF",
+      "quantity": 5,
+      "level": 6
+    },
+    {
+      "position": "14",
+      "parts": "23-26-2",
+      "colorArray": "EEEEEE,FFFFFF",
+      "quantity": 7,
+      "level": 6
+    },
+    {
+      "position": "14",
+      "parts": "24-11-1",
+      "colorArray": "0B5394,444444,76A5AF,8E7CC3,93C47D,C27BA0,E06666,F6B26B,FFD966,FFFFFF",
+      "quantity": 5,
+      "level": 6
+    },
+    {
+      "position": "14",
+      "parts": "25-9-1",
+      "colorArray": "0B5394,444444,76A5AF,8E7CC3,93C47D,C27BA0,E06666,F6B26B,FFD966,FFFFFF",
+      "quantity": 2,
+      "level": 6
+    },
+    {
+      "position": "14",
+      "parts": "26-12-1",
+      "colorArray": "0B5394,444444,76A5AF,8E7CC3,93C47D,C27BA0,E06666,F6B26B,FFD966,FFFFFF",
+      "quantity": 5,
+      "level": 6
+    },
+    {
+      "position": "14",
+      "parts": "27-27-1",
+      "colorArray": "",
+      "quantity": 4,
+      "level": 6
+    },
+    {
+      "position": "14",
+      "parts": "28-28-2",
+      "colorArray": "",
+      "quantity": 4,
+      "level": 6
+    },
+    {
+      "position": "14",
+      "parts": "3-3-1",
+      "colorArray": "",
+      "quantity": 5,
+      "level": 6
+    },
+    {
+      "position": "14",
+      "parts": "4-5-1",
+      "colorArray": "",
+      "quantity": 11,
+      "level": 6
+    },
+    {
+      "position": "14",
+      "parts": "5-10-1",
+      "colorArray": "0B5394,444444,76A5AF,8E7CC3,93C47D,C27BA0,E06666,F6B26B,FFD966,FFFFFF",
+      "quantity": 6,
+      "level": 6
+    },
+    {
+      "position": "14",
+      "parts": "6-13-1",
+      "colorArray": "EEEEEE,FFFFFF",
+      "quantity": 7,
+      "level": 6
+    },
+    {
+      "position": "14",
+      "parts": "7-14-2",
+      "colorArray": "",
+      "quantity": 1,
+      "level": 6
+    },
+    {
+      "position": "14",
+      "parts": "8-4-1",
+      "colorArray": "",
+      "quantity": 8,
+      "level": 6
+    },
+    {
+      "position": "14",
+      "parts": "9-7-1",
+      "colorArray": "",
+      "quantity": 5,
+      "level": 6
+    }
+  ],
+  "15": [
+    {
+      "position": "15",
+      "parts": "1-8-1",
+      "colorArray": "000000,44C229,4BA2F3,54E1E4,6B6BEE,B837FC,B9D36F,D1D1D1,D8CAFF,E0F1FF,F720AE,FF1C1C,FF9900,FFCBF5,FFD966,FFDCD2,FFF9D9,FFFFFF",
+      "quantity": 2,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "10-6-1",
+      "colorArray": "",
+      "quantity": 11,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "11-7-2",
+      "colorArray": "",
+      "quantity": 12,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "12-2-1",
+      "colorArray": "000000,6A6A6A,CFE2F3,D3D3D3,FFFFFF",
+      "quantity": 4,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "13-3-2",
+      "colorArray": "000000,818181,CDCDCD,D8EDFF,FFFFFF",
+      "quantity": 4,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "14-4-2",
+      "colorArray": "",
+      "quantity": 7,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "15-5-1",
+      "colorArray": "",
+      "quantity": 7,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "16-24-1",
+      "colorArray": "000000,3A3B75,3A69DA,6E4E4A,9FC051,A062B1,B45F06,B7BFC9,C3DEF4,C73E3E,C9B7A7,D7C2C2,D8D8D8,FF9900,FFC6F9,FFD966,FFF6D8,FFFFFF",
+      "quantity": 16,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "17-25-2",
+      "colorArray": "000000,4994D6,586B9D,856B5B,A2C76C,B45F06,B968C2,BD4545,C0C9D6,C2EFFF,CCCCCC,D1B79D,EDD6D6,FF9900,FFC7FA,FFD966,FFF5DC,FFFFFF",
+      "quantity": 29,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "18-16-2",
+      "colorArray": "",
+      "quantity": 10,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "19-17-2",
+      "colorArray": "",
+      "quantity": 10,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "2-9-1",
+      "colorArray": "000000,3E9BF0,48ECF5,61D92F,6B66FC,C2B2FF,C3D64B,C3F2FF,C6C6C6,C94EFF,FA3498,FF3C3C,FF8D22,FFC5C4,FFD1EE,FFD966,FFF9D7,FFFFFF",
+      "quantity": 2,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "20-18-1",
+      "colorArray": "",
+      "quantity": 10,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "21-19-1",
+      "colorArray": "",
+      "quantity": 10,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "22-36-2",
+      "colorArray": "1C1C1C,AF968F,B2B2B2,DFEFFF,FFE7F3,FFFFFF",
+      "quantity": 5,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "23-37-1",
+      "colorArray": "282828,A89287,D1D1D1,DBEDFD,FFE9F6,FFFFFF",
+      "quantity": 3,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "24-38-1",
+      "colorArray": "000000,5677B9,A1D8A2,C04949,DCE8F1,FFE1E2,FFF2CC,FFFFFF",
+      "quantity": 2,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "25-39-2",
+      "colorArray": "000000,578ECB,86B57C,BC4848,E9EDF3,FCDAE5,FFF2CC,FFFFFF",
+      "quantity": 2,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "26-40-2",
+      "colorArray": "000000,3B6ABC,617696,92C29B,9A6F6F,C86D6D,FECEDC,FFFFFF",
+      "quantity": 3,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "27-42-1",
+      "colorArray": "000000,3087D6,6E925C,C2CFD8,DA3636,FFCBEA,FFFFFF",
+      "quantity": 5,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "28-43-2",
+      "colorArray": "242424,4679D8,60B368,BFC8D4,CD4444,FFCDE9,FFFFFF",
+      "quantity": 7,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "29-41-1",
+      "colorArray": "000000,5594CA,57627A,8D6C6B,97B697,CA6D6D,FFC5E8,FFFFFF",
+      "quantity": 10,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "3-10-2",
+      "colorArray": "000000,398CDB,3FDADA,55C029,6A6ADD,AEBA75,BD40E5,C7C7C7,D5ECFF,E2D5FF,F237B5,FF3434,FF9900,FFD966,FFD9FD,FFE1D1,FFF6DA,FFFFFF",
+      "quantity": 2,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "30-26-2",
+      "colorArray": "000000,4994D6,586B9D,856B5B,A2C76C,B45F06,B968C2,BD4545,C0C9D6,C2EFFF,CCCCCC,D1B79D,EDD6D6,FF9900,FFC7FA,FFD966,FFF5DC,FFFFFF",
+      "quantity": 13,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "31-27-1",
+      "colorArray": "",
+      "quantity": 36,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "32-47-1",
+      "colorArray": "",
+      "quantity": 2,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "33-48-2",
+      "colorArray": "",
+      "quantity": 2,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "34-23-2",
+      "colorArray": "000000,4994D6,586B9D,856B5B,A2C76C,B45F06,B968C2,BD4545,C0C9D6,C2EFFF,CCCCCC,D1B79D,EDD6D6,FF9900,FFC7FA,FFD966,FFF5DC,FFFFFF",
+      "quantity": 20,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "35-22-1",
+      "colorArray": "000000,3A3B75,3A69DA,6E4E4A,9FC051,A062B1,B45F06,B7BFC9,C3DEF4,C73E3E,C9B7A7,D7C2C2,D8D8D8,FF9900,FFC6F9,FFD966,FFF6D8,FFFFFF",
+      "quantity": 25,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "36-28-2",
+      "colorArray": "000000,3D85C6,506589,88603D,98DEF6,B1D77B,B57239,B96CCE,C8B19B,CCD4E0,CD5C5C,D6D6D6,E7CFCF,FF9900,FFD7FE,FFD966,FFF2CC,FFFFFF",
+      "quantity": 10,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "37-35-2",
+      "colorArray": "000000,3D85C6,5C6B92,906558,95BB5F,A76CC5,B3E2F3,B5793A,BF4444,D4C0A8,D5D5D5,D8DFE2,F4DCDC,FF9900,FFC8E2,FFD966,FFF5D3,FFFFFF",
+      "quantity": 10,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "38-29-1",
+      "colorArray": "000000,3D85C6,4E6191,724D34,9DC675,9FDEF0,A66E41,B370C0,B63C3C,C6D6D8,CEB99E,D4D4D4,E3D5D5,FF9900,FFD966,FFDBED,FFF5D2,FFFFFF",
+      "quantity": 6,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "39-30-1",
+      "colorArray": "000000,314877,3D85C6,8A6147,AD67C5,AED177,AF7547,B33B3B,C2AF90,C2EBFF,C7D8DA,D0D0D0,E8D5D5,FF9900,FFD966,FFD9F1,FFF7DF,FFFFFF",
+      "quantity": 6,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "4-11-2",
+      "colorArray": "000000,3ADCDC,449DED,59B232,6262D4,ACC476,C5E0F4,C8C8C8,D048DE,E1D1FF,E938A0,FDDED8,FE3232,FF9900,FFD966,FFD9F4,FFF9EA,FFFFFF",
+      "quantity": 2,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "40-31-1",
+      "colorArray": "000000,3D85C6,446595,826853,8D5BC5,A4673C,A7D389,BDE5F5,CC4040,CFB89E,D4E1E7,E8E8E8,EDDBDB,FF9E39,FFCEDB,FFD966,FFF2CC,FFFFFF",
+      "quantity": 5,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "41-32-1",
+      "colorArray": "000000,3D85C6,4D6092,8D664A,A15FC3,A1DEF4,A6CA72,B98654,C2D7E0,CBB69B,CE4747,D8D8D8,EBD5D5,FF9900,FFC8E6,FFD966,FFF2CC,FFFFFF",
+      "quantity": 5,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "42-33-2",
+      "colorArray": "000000,3D85C6,4F649A,9063BC,916B53,A7CD63,BF8666,C2CBD4,C4ECFB,C94848,CBCBCB,D2BCA2,E4CECE,F09A41,F8B6D0,FDF3DB,FFD966,FFFFFF",
+      "quantity": 10,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "43-34-2",
+      "colorArray": "000000,3D85C6,627298,966BB9,987873,A1CE74,B1E8FF,B4C6D0,B57227,BD3939,CEB190,D1D1D1,EAD8D8,FFA23F,FFD2F4,FFD966,FFF2CC,FFFFFF",
+      "quantity": 10,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "44-44-2",
+      "colorArray": "",
+      "quantity": 36,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "45-45-1",
+      "colorArray": "",
+      "quantity": 8,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "46-20-2",
+      "colorArray": "000000,FFFFFF",
+      "quantity": 7,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "47-21-1",
+      "colorArray": "000000,FFFFFF",
+      "quantity": 7,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "48-46-1",
+      "colorArray": "",
+      "quantity": 13,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "5-12-1",
+      "colorArray": "",
+      "quantity": 2,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "6-13-1",
+      "colorArray": "",
+      "quantity": 2,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "7-14-2",
+      "colorArray": "",
+      "quantity": 2,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "8-15-2",
+      "colorArray": "",
+      "quantity": 2,
+      "level": 7
+    },
+    {
+      "position": "15",
+      "parts": "9-1-1",
+      "colorArray": "",
+      "quantity": 1,
+      "level": 7
+    }
+  ],
+  "16": [
+    {
+      "position": "16",
+      "parts": "1-44-2",
+      "colorArray": "",
+      "quantity": 6,
+      "level": 8
+    },
+    {
+      "position": "16",
+      "parts": "10-40-2",
+      "colorArray": "242424,3D85C6,674EA7,8F6D6D,90C04C,92D4D2,B45F06,B4A7D6,BC5555,BED5B4,D0D0D0,D6BE9D,F31313,FF9900,FFBFBF,FFD966,FFF2CC,FFFFFF",
+      "quantity": 9,
+      "level": 8
+    },
+    {
+      "position": "16",
+      "parts": "11-43-2",
+      "colorArray": "",
+      "quantity": 14,
+      "level": 8
+    },
+    {
+      "position": "16",
+      "parts": "12-19-1",
+      "colorArray": "404040,9FC5E8,B6F598,FFC6C6,FFE599,FFFFFF",
+      "quantity": 2,
+      "level": 8
+    },
+    {
+      "position": "16",
+      "parts": "13-16-1",
+      "colorArray": "000000,288BE3,674EA7,895B4C,97E6F2,A0CA51,B14343,B1C8AA,B2B2B2,B45F06,B4A7D6,CBB070,E69138,F21818,FFB9B9,FFD966,FFF2CC,FFFFFF",
+      "quantity": 13,
+      "level": 8
+    },
+    {
+      "position": "16",
+      "parts": "14-1-1",
+      "colorArray": "",
+      "quantity": 2,
+      "level": 8
+    },
+    {
+      "position": "16",
+      "parts": "15-11-1",
+      "colorArray": "",
+      "quantity": 4,
+      "level": 8
+    },
+    {
+      "position": "16",
+      "parts": "16-12-1",
+      "colorArray": "",
+      "quantity": 4,
+      "level": 8
+    },
+    {
+      "position": "16",
+      "parts": "17-3-1",
+      "colorArray": "",
+      "quantity": 11,
+      "level": 8
+    },
+    {
+      "position": "16",
+      "parts": "18-4-1",
+      "colorArray": "",
+      "quantity": 11,
+      "level": 8
+    },
+    {
+      "position": "16",
+      "parts": "19-5-1",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 8
+    },
+    {
+      "position": "16",
+      "parts": "2-24-2",
+      "colorArray": "",
+      "quantity": 2,
+      "level": 8
+    },
+    {
+      "position": "16",
+      "parts": "20-6-1",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 8
+    },
+    {
+      "position": "16",
+      "parts": "21-2-1",
+      "colorArray": "",
+      "quantity": 8,
+      "level": 8
+    },
+    {
+      "position": "16",
+      "parts": "22-7-1",
+      "colorArray": "",
+      "quantity": 11,
+      "level": 8
+    },
+    {
+      "position": "16",
+      "parts": "23-30-2",
+      "colorArray": "",
+      "quantity": 11,
+      "level": 8
+    },
+    {
+      "position": "16",
+      "parts": "24-20-1",
+      "colorArray": "",
+      "quantity": 14,
+      "level": 8
+    },
+    {
+      "position": "16",
+      "parts": "25-9-1",
+      "colorArray": "CD9C9C,FFF2CC",
+      "quantity": 6,
+      "level": 8
+    },
+    {
+      "position": "16",
+      "parts": "26-10-1",
+      "colorArray": "CDA0A0,FFF2CC",
+      "quantity": 6,
+      "level": 8
+    },
+    {
+      "position": "16",
+      "parts": "27-14-1",
+      "colorArray": "161616,3D85C6,7ED9ED,987B7B,9900FF,A80E0E,B2C66A,B45F06,B6C4A4,BDB084,BEA6D9,C4C4C4,EE0F0F,FF9900,FFB6B6,FFD966,FFF2CC,FFFFFF",
+      "quantity": 3,
+      "level": 8
+    },
+    {
+      "position": "16",
+      "parts": "28-13-1",
+      "colorArray": "0B5394,3A3939,674EA7,80DBD8,906C6C,A5D96E,B45F06,B4A7D6,BBCDB1,CC3838,CDCDCD,DCCCAA,F11414,FF9900,FFC0C0,FFD966,FFF2CC,FFFFFF",
+      "quantity": 8,
+      "level": 8
+    },
+    {
+      "position": "16",
+      "parts": "29-15-1",
+      "colorArray": "0D0D0D,3D85C6,674EA7,847171,90E0D9,A52424,B45F06,B4CBAB,B7B7B7,B9D67B,BBB4CC,CAB296,F31313,FF9900,FFBEBE,FFD966,FFF2CC,FFFFFF",
+      "quantity": 3,
+      "level": 8
+    },
+    {
+      "position": "16",
+      "parts": "3-34-2",
+      "colorArray": "",
+      "quantity": 4,
+      "level": 8
+    },
+    {
+      "position": "16",
+      "parts": "30-17-1",
+      "colorArray": "000000,3D85C6,9900FF,9DD6D7,9F8787,AE3131,B45F06,B7B7B7,B7C8B0,BFDF5A,C8A8C3,DCC490,F21212,FF9900,FFC2C2,FFD966,FFF2CC,FFFFFF",
+      "quantity": 4,
+      "level": 8
+    },
+    {
+      "position": "16",
+      "parts": "31-18-1",
+      "colorArray": "3A3A3A,AED7FF,BADC74,FFC6C6,FFE599,FFFFFF",
+      "quantity": 4,
+      "level": 8
+    },
+    {
+      "position": "16",
+      "parts": "32-38-2",
+      "colorArray": "232323,3D85C6,674EA7,89CFDD,90C053,967878,ACBFA6,B45F06,B4A7D6,BCBCBC,C81A1A,D6B898,E10D0D,FF9900,FFC3C3,FFD966,FFF2CC,FFFFFF",
+      "quantity": 3,
+      "level": 8
+    },
+    {
+      "position": "16",
+      "parts": "33-25-2",
+      "colorArray": "",
+      "quantity": 10,
+      "level": 8
+    },
+    {
+      "position": "16",
+      "parts": "34-8-1",
+      "colorArray": "",
+      "quantity": 10,
+      "level": 8
+    },
+    {
+      "position": "16",
+      "parts": "35-21-1",
+      "colorArray": "",
+      "quantity": 6,
+      "level": 8
+    },
+    {
+      "position": "16",
+      "parts": "36-22-1",
+      "colorArray": "0B5394,121212,3D85C6,674EA7,6AA84F,A3E266,B2EEEB,B45F06,EC0AA5,FC1313,FF9900,FFB9B9,FFD966,FFFFFF",
+      "quantity": 3,
+      "level": 8
+    },
+    {
+      "position": "16",
+      "parts": "37-23-1",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 8
+    },
+    {
+      "position": "16",
+      "parts": "38-28-2",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 8
+    },
+    {
+      "position": "16",
+      "parts": "39-29-2",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 8
+    },
+    {
+      "position": "16",
+      "parts": "4-35-2",
+      "colorArray": "",
+      "quantity": 4,
+      "level": 8
+    },
+    {
+      "position": "16",
+      "parts": "40-36-2",
+      "colorArray": "272727,3D85C6,674EA7,7CD9E9,816767,92C053,B45F06,B4A7D6,B7C9AD,C22222,CACACA,CBB983,E81515,FF9900,FFBABA,FFD966,FFF2CC,FFFFFF",
+      "quantity": 5,
+      "level": 8
+    },
+    {
+      "position": "16",
+      "parts": "41-37-2",
+      "colorArray": "363131,3D85C6,674EA7,857272,92E4D3,99D73C,A7BE9F,B22121,B3B3B3,B45F06,B6ACDB,C8AE8B,E11111,FF9900,FFBABA,FFD966,FFF2CC,FFFFFF",
+      "quantity": 3,
+      "level": 8
+    },
+    {
+      "position": "16",
+      "parts": "42-39-2",
+      "colorArray": "000000,3D85C6,71CFD5,9900FF,9E7C7C,A8D465,B45F06,B9CFB0,BB1414,BCBCBC,C1B9D3,CEB46E,DF0A0A,FF9900,FFC4C4,FFD966,FFF2CC,FFFFFF",
+      "quantity": 2,
+      "level": 8
+    },
+    {
+      "position": "16",
+      "parts": "43-31-2",
+      "colorArray": "",
+      "quantity": 10,
+      "level": 8
+    },
+    {
+      "position": "16",
+      "parts": "44-45-1",
+      "colorArray": "404040,9FC5E8,B6F598,FFC6C6,FFE599,FFFFFF",
+      "quantity": 3,
+      "level": 8
+    },
+    {
+      "position": "16",
+      "parts": "45-41-2",
+      "colorArray": "4E4E4E,A1D0FD,A5DD8D,FFB8B8,FFE599,FFFFFF",
+      "quantity": 5,
+      "level": 8
+    },
+    {
+      "position": "16",
+      "parts": "5-26-2",
+      "colorArray": "",
+      "quantity": 11,
+      "level": 8
+    },
+    {
+      "position": "16",
+      "parts": "6-27-2",
+      "colorArray": "",
+      "quantity": 11,
+      "level": 8
+    },
+    {
+      "position": "16",
+      "parts": "7-42-2",
+      "colorArray": "",
+      "quantity": 14,
+      "level": 8
+    },
+    {
+      "position": "16",
+      "parts": "8-32-2",
+      "colorArray": "CF9595,FFF2CC",
+      "quantity": 6,
+      "level": 8
+    },
+    {
+      "position": "16",
+      "parts": "9-33-2",
+      "colorArray": "CE9D9D,FFF2CC",
+      "quantity": 6,
+      "level": 8
+    }
+  ],
+  "17": [
+    {
+      "position": "17",
+      "parts": "1-6-1",
+      "colorArray": "000000,6B1F00,999999,9F7F67,9FC5E8,B4A7D6,B6D7A8,D5A6BD,E06666,F6B26B,FFE599,FFFFFF",
+      "quantity": 3,
+      "level": 9
+    },
+    {
+      "position": "17",
+      "parts": "10-8-1",
+      "colorArray": "000000,FFFFFF",
+      "quantity": 8,
+      "level": 9
+    },
+    {
+      "position": "17",
+      "parts": "11-14-1",
+      "colorArray": "",
+      "quantity": 11,
+      "level": 9
+    },
+    {
+      "position": "17",
+      "parts": "12-4-1",
+      "colorArray": "000000,4C280E,999999,9F886F,9FC5E8,B4A7D6,B6D7A8,D5A6BD,EA9999,F9CB9C,FFE599,FFFFFF",
+      "quantity": 3,
+      "level": 9
+    },
+    {
+      "position": "17",
+      "parts": "13-2-1",
+      "colorArray": "020202,4C1D01,999999,9FC5E8,AC8585,B4A7D6,B6D7A8,D5A6BD,EA9999,F9CB9C,FFD966,FFFFFF",
+      "quantity": 8,
+      "level": 9
+    },
+    {
+      "position": "17",
+      "parts": "14-3-1",
+      "colorArray": "",
+      "quantity": 26,
+      "level": 9
+    },
+    {
+      "position": "17",
+      "parts": "15-12-1",
+      "colorArray": "",
+      "quantity": 4,
+      "level": 9
+    },
+    {
+      "position": "17",
+      "parts": "16-13-1",
+      "colorArray": "",
+      "quantity": 9,
+      "level": 9
+    },
+    {
+      "position": "17",
+      "parts": "17-19-1",
+      "colorArray": "",
+      "quantity": 2,
+      "level": 9
+    },
+    {
+      "position": "17",
+      "parts": "18-15-1",
+      "colorArray": "",
+      "quantity": 11,
+      "level": 9
+    },
+    {
+      "position": "17",
+      "parts": "19-16-1",
+      "colorArray": "",
+      "quantity": 11,
+      "level": 9
+    },
+    {
+      "position": "17",
+      "parts": "2-5-1",
+      "colorArray": "000000,782A04,936D45,999999,9FC5E8,B4A7D6,B6D7A8,D5A6BD,EA9999,F6B26B,FFD966,FFFFFF",
+      "quantity": 8,
+      "level": 9
+    },
+    {
+      "position": "17",
+      "parts": "20-17-1",
+      "colorArray": "",
+      "quantity": 8,
+      "level": 9
+    },
+    {
+      "position": "17",
+      "parts": "21-27-2",
+      "colorArray": "000000,544141,93C47D,999999,9FC5E8,B29393,B4A7D6,D5A6BD,EA9999,F6B26B,FFE599,FFFFFF",
+      "quantity": 7,
+      "level": 9
+    },
+    {
+      "position": "17",
+      "parts": "22-28-2",
+      "colorArray": "000000,482A2A,9FC5E8,B29797,B4A7D6,B6D7A8,CCCCCC,D5A6BD,EA9999,F6B26B,FFE599,FFFFFF",
+      "quantity": 4,
+      "level": 9
+    },
+    {
+      "position": "17",
+      "parts": "23-23-2",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 9
+    },
+    {
+      "position": "17",
+      "parts": "24-39-2",
+      "colorArray": "000000,FFFFFF",
+      "quantity": 4,
+      "level": 9
+    },
+    {
+      "position": "17",
+      "parts": "25-20-1",
+      "colorArray": "C8A492,E8D3BD,FFF8EF",
+      "quantity": 2,
+      "level": 9
+    },
+    {
+      "position": "17",
+      "parts": "26-21-1",
+      "colorArray": "",
+      "quantity": 4,
+      "level": 9
+    },
+    {
+      "position": "17",
+      "parts": "27-31-2",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 9
+    },
+    {
+      "position": "17",
+      "parts": "28-32-2",
+      "colorArray": "",
+      "quantity": 12,
+      "level": 9
+    },
+    {
+      "position": "17",
+      "parts": "29-33-2",
+      "colorArray": "",
+      "quantity": 12,
+      "level": 9
+    },
+    {
+      "position": "17",
+      "parts": "3-7-1",
+      "colorArray": "000000,4C2A06,8D7964,999999,9FC5E8,B4A7D6,B6D7A8,D5A6BD,EA9999,F9CB9C,FFE599,FFFFFF",
+      "quantity": 2,
+      "level": 9
+    },
+    {
+      "position": "17",
+      "parts": "30-30-2",
+      "colorArray": "",
+      "quantity": 8,
+      "level": 9
+    },
+    {
+      "position": "17",
+      "parts": "31-34-2",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 9
+    },
+    {
+      "position": "17",
+      "parts": "32-36-2",
+      "colorArray": "",
+      "quantity": 9,
+      "level": 9
+    },
+    {
+      "position": "17",
+      "parts": "33-26-2",
+      "colorArray": "000000,523D3D,999999,9FC5E8,B48D8D,B4A7D6,B6D7A8,D5A6BD,EA9999,F9CB9C,FFE599,FFFFFF",
+      "quantity": 6,
+      "level": 9
+    },
+    {
+      "position": "17",
+      "parts": "34-24-2",
+      "colorArray": "000000,443232,999999,9FC5E8,B4A7D6,B6D7A8,D5A6BD,D6B2B2,EA9999,F6B26B,FFD966,FFFFFF",
+      "quantity": 8,
+      "level": 9
+    },
+    {
+      "position": "17",
+      "parts": "35-25-2",
+      "colorArray": "",
+      "quantity": 27,
+      "level": 9
+    },
+    {
+      "position": "17",
+      "parts": "36-35-2",
+      "colorArray": "",
+      "quantity": 9,
+      "level": 9
+    },
+    {
+      "position": "17",
+      "parts": "37-37-2",
+      "colorArray": "",
+      "quantity": 20,
+      "level": 9
+    },
+    {
+      "position": "17",
+      "parts": "38-38-2",
+      "colorArray": "",
+      "quantity": 20,
+      "level": 9
+    },
+    {
+      "position": "17",
+      "parts": "39-40-2",
+      "colorArray": "A9937C,E0C8AE,FEF2E5",
+      "quantity": 2,
+      "level": 9
+    },
+    {
+      "position": "17",
+      "parts": "4-29-2",
+      "colorArray": "000000,4E3B3B,999999,9FC5E8,B4A7D6,B68787,B6D7A8,D5A6BD,EA9999,F9CB9C,FFE599,FFFFFF",
+      "quantity": 4,
+      "level": 9
+    },
+    {
+      "position": "17",
+      "parts": "40-41-2",
+      "colorArray": "000000,FFFFFF",
+      "quantity": 3,
+      "level": 9
+    },
+    {
+      "position": "17",
+      "parts": "41-22-1",
+      "colorArray": "",
+      "quantity": 4,
+      "level": 9
+    },
+    {
+      "position": "17",
+      "parts": "42-42-1",
+      "colorArray": "",
+      "quantity": 5,
+      "level": 9
+    },
+    {
+      "position": "17",
+      "parts": "5-1-1",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 9
+    },
+    {
+      "position": "17",
+      "parts": "6-18-1",
+      "colorArray": "000000,FFFFFF",
+      "quantity": 4,
+      "level": 9
+    },
+    {
+      "position": "17",
+      "parts": "7-9-1",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 9
+    },
+    {
+      "position": "17",
+      "parts": "8-10-1",
+      "colorArray": "",
+      "quantity": 12,
+      "level": 9
+    },
+    {
+      "position": "17",
+      "parts": "9-11-1",
+      "colorArray": "",
+      "quantity": 12,
+      "level": 9
+    }
+  ],
+  "18": [
+    {
+      "position": "18",
+      "parts": "1-31-2",
+      "colorArray": "000000,3D8CD7,4C5C92,7361A1,7D6856,AED94C,BCD2B8,BEE3FF,C6833F,D0BEFF,D3D3D3,E5CDB6,EDF9FF,EE1F1F,F29D18,FFCCCC,FFD04A,FFF5DA",
+      "quantity": 24,
+      "level": 10
+    },
+    {
+      "position": "18",
+      "parts": "10-24-2",
+      "colorArray": "CFE2F3,FFDDDD,FFFFFF",
+      "quantity": 5,
+      "level": 10
+    },
+    {
+      "position": "18",
+      "parts": "11-6-1",
+      "colorArray": "CFE2F3,FFDFDF,FFFFFF",
+      "quantity": 5,
+      "level": 10
+    },
+    {
+      "position": "18",
+      "parts": "12-35-2",
+      "colorArray": "",
+      "quantity": 8,
+      "level": 10
+    },
+    {
+      "position": "18",
+      "parts": "13-17-1",
+      "colorArray": "",
+      "quantity": 8,
+      "level": 10
+    },
+    {
+      "position": "18",
+      "parts": "14-20-2",
+      "colorArray": "808080,CBCBCB,FFFFFF",
+      "quantity": 5,
+      "level": 10
+    },
+    {
+      "position": "18",
+      "parts": "15-2-1",
+      "colorArray": "989898,DBDBDB,FFFFFF",
+      "quantity": 5,
+      "level": 10
+    },
+    {
+      "position": "18",
+      "parts": "16-7-1",
+      "colorArray": "",
+      "quantity": 8,
+      "level": 10
+    },
+    {
+      "position": "18",
+      "parts": "17-25-2",
+      "colorArray": "",
+      "quantity": 9,
+      "level": 10
+    },
+    {
+      "position": "18",
+      "parts": "18-10-1",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 10
+    },
+    {
+      "position": "18",
+      "parts": "19-9-1",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 10
+    },
+    {
+      "position": "18",
+      "parts": "2-1-1",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 10
+    },
+    {
+      "position": "18",
+      "parts": "20-28-2",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 10
+    },
+    {
+      "position": "18",
+      "parts": "21-27-2",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 10
+    },
+    {
+      "position": "18",
+      "parts": "22-30-2",
+      "colorArray": "000000,5A80C6,5C5E84,876161,9765B4,A7D66A,B45F06,BDEFFF,C2E2BB,CEC9C8,D3C4FF,DECBB5,EA962B,EB3A3A,EDFCFF,FFCBE2,FFE327,FFF6D5",
+      "quantity": 14,
+      "level": 10
+    },
+    {
+      "position": "18",
+      "parts": "23-33-2",
+      "colorArray": "2E2C2C,4187C2,4C4C74,735DB0,806657,A3CD66,BAD1AD,C08D58,CAE7FF,D6CFCF,E1D0FF,E1D7C9,F6FBFF,FC1E1E,FF9900,FFD966,FFDBDB,FFF5DC",
+      "quantity": 6,
+      "level": 10
+    },
+    {
+      "position": "18",
+      "parts": "24-32-2",
+      "colorArray": "181818,3B87D1,51557B,66564B,6C5B9E,A3CD63,AA7135,B8D5AC,C4E6FF,CEC2C2,DACABD,E3D7FF,EC1515,F1FCFF,F99E18,FCF8E4,FFD558,FFDADA",
+      "quantity": 6,
+      "level": 10
+    },
+    {
+      "position": "18",
+      "parts": "25-34-2",
+      "colorArray": "111111,3C8BD1,46537C,7C6CA4,8E6E4D,ABCD4A,BB7528,C3D8B9,CEE7FF,D1D0D0,DACEFF,DFCCBA,EF1818,F8FBFF,FF9900,FFD966,FFDADA,FFF4DE",
+      "quantity": 8,
+      "level": 10
+    },
+    {
+      "position": "18",
+      "parts": "26-36-2",
+      "colorArray": "",
+      "quantity": 24,
+      "level": 10
+    },
+    {
+      "position": "18",
+      "parts": "27-26-2",
+      "colorArray": "000000,FFFFFF",
+      "quantity": 5,
+      "level": 10
+    },
+    {
+      "position": "18",
+      "parts": "28-13-1",
+      "colorArray": "131313,3999F1,536994,79689E,82735E,B7CE6C,BFDCB6,C77F30,CCC2AD,CCE7FF,CDCDCD,DAC8FF,EFFBFF,F73030,FF9900,FFD460,FFDADA,FFF4D5",
+      "quantity": 14,
+      "level": 10
+    },
+    {
+      "position": "18",
+      "parts": "29-8-1",
+      "colorArray": "000000,FFFFFF",
+      "quantity": 5,
+      "level": 10
+    },
+    {
+      "position": "18",
+      "parts": "3-19-2",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 10
+    },
+    {
+      "position": "18",
+      "parts": "30-12-1",
+      "colorArray": "202020,558EEA,606C9A,795D90,9B877A,ADC9A0,AEBC51,C6E2FF,C88C60,D6CFCF,D7C7B5,D9CAFF,E4F2FF,F72525,F98C15,FED041,FFD6D6,FFF4D5",
+      "quantity": 13,
+      "level": 10
+    },
+    {
+      "position": "18",
+      "parts": "31-15-1",
+      "colorArray": "2C86DB,3E3A3A,5B6DAE,877766,8C55BC,99D165,B3D1B3,BC7125,C3B7AA,C4E2FF,D6CFCF,DCCDFF,EFFBFF,F01818,FF9900,FFD966,FFD9D9,FFF5DF",
+      "quantity": 3,
+      "level": 10
+    },
+    {
+      "position": "18",
+      "parts": "32-14-1",
+      "colorArray": "318DDF,423D3D,6C71C7,8953A8,958169,9EC864,BBDFFF,C18950,C2DBBA,D4C9B3,D8CCCC,E3D4FF,EE2020,EFF8FF,FF9900,FFD6D6,FFD966,FFF6E3",
+      "quantity": 3,
+      "level": 10
+    },
+    {
+      "position": "18",
+      "parts": "33-16-1",
+      "colorArray": "2B8CE4,343131,674EA7,6B6BB9,867154,9DCB5D,BC884D,BED8B1,C2DFFF,C9BAAA,D0C6C6,E1D0FF,EE2727,F0F7FF,FF9900,FFD2D2,FFD552,FFF6DC",
+      "quantity": 6,
+      "level": 10
+    },
+    {
+      "position": "18",
+      "parts": "34-11-1",
+      "colorArray": "",
+      "quantity": 2,
+      "level": 10
+    },
+    {
+      "position": "18",
+      "parts": "35-29-2",
+      "colorArray": "",
+      "quantity": 2,
+      "level": 10
+    },
+    {
+      "position": "18",
+      "parts": "36-18-1",
+      "colorArray": "",
+      "quantity": 19,
+      "level": 10
+    },
+    {
+      "position": "18",
+      "parts": "37-37-1",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 10
+    },
+    {
+      "position": "18",
+      "parts": "38-38-2",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 10
+    },
+    {
+      "position": "18",
+      "parts": "4-23-2",
+      "colorArray": "",
+      "quantity": 1,
+      "level": 10
+    },
+    {
+      "position": "18",
+      "parts": "5-22-2",
+      "colorArray": "",
+      "quantity": 16,
+      "level": 10
+    },
+    {
+      "position": "18",
+      "parts": "6-21-2",
+      "colorArray": "",
+      "quantity": 16,
+      "level": 10
+    },
+    {
+      "position": "18",
+      "parts": "7-5-1",
+      "colorArray": "",
+      "quantity": 1,
+      "level": 10
+    },
+    {
+      "position": "18",
+      "parts": "8-3-1",
+      "colorArray": "",
+      "quantity": 16,
+      "level": 10
+    },
+    {
+      "position": "18",
+      "parts": "9-4-1",
+      "colorArray": "",
+      "quantity": 16,
+      "level": 10
+    }
+  ],
+  "19": [
+    {
+      "position": "19",
+      "parts": "1-22-1",
+      "colorArray": "",
+      "quantity": 5,
+      "level": 11
+    },
+    {
+      "position": "19",
+      "parts": "10-6-1",
+      "colorArray": "444444,9FC5E8,A2C4C9,B4A7D6,B6D7A8,D5A6BD,EA9999,F4CCCC,F9CB9C,FFE599,FFFFFF",
+      "quantity": 6,
+      "level": 11
+    },
+    {
+      "position": "19",
+      "parts": "11-10-1",
+      "colorArray": "",
+      "quantity": 37,
+      "level": 11
+    },
+    {
+      "position": "19",
+      "parts": "12-11-1",
+      "colorArray": "444444,9FC5E8,A2C4C9,B4A7D6,B6D7A8,D5A6BD,EA9999,F4CCCC,F9CB9C,FFE599,FFFFFF",
+      "quantity": 6,
+      "level": 11
+    },
+    {
+      "position": "19",
+      "parts": "13-17-2",
+      "colorArray": "444444,9FC5E8,A2C4C9,B4A7D6,B6D7A8,D5A6BD,EA9999,F4CCCC,F9CB9C,FFE599,FFFFFF",
+      "quantity": 8,
+      "level": 11
+    },
+    {
+      "position": "19",
+      "parts": "14-18-2",
+      "colorArray": "444444,9FC5E8,A2C4C9,B4A7D6,B6D7A8,D5A6BD,EA9999,F4CCCC,F9CB9C,FFE599,FFFFFF",
+      "quantity": 6,
+      "level": 11
+    },
+    {
+      "position": "19",
+      "parts": "15-14-2",
+      "colorArray": "444444,9FC5E8,A2C4C9,B4A7D6,B6D7A8,D5A6BD,EA9999,F4CCCC,F9CB9C,FFE599,FFFFFF",
+      "quantity": 9,
+      "level": 11
+    },
+    {
+      "position": "19",
+      "parts": "16-12-2",
+      "colorArray": "444444,9FC5E8,A2C4C9,B4A7D6,B6D7A8,D5A6BD,EA9999,F4CCCC,F9CB9C,FFE599,FFFFFF",
+      "quantity": 19,
+      "level": 11
+    },
+    {
+      "position": "19",
+      "parts": "17-13-2",
+      "colorArray": "444444,9FC5E8,A2C4C9,B4A7D6,B6D7A8,D5A6BD,EA9999,F4CCCC,F9CB9C,FFE599,FFFFFF",
+      "quantity": 7,
+      "level": 11
+    },
+    {
+      "position": "19",
+      "parts": "18-15-2",
+      "colorArray": "",
+      "quantity": 5,
+      "level": 11
+    },
+    {
+      "position": "19",
+      "parts": "19-19-2",
+      "colorArray": "444444,9FC5E8,A2C4C9,B4A7D6,B6D7A8,D5A6BD,EA9999,F4CCCC,F9CB9C,FFE599,FFFFFF",
+      "quantity": 5,
+      "level": 11
+    },
+    {
+      "position": "19",
+      "parts": "2-1-1",
+      "colorArray": "",
+      "quantity": 1,
+      "level": 11
+    },
+    {
+      "position": "19",
+      "parts": "20-16-2",
+      "colorArray": "444444,9FC5E8,A2C4C9,B4A7D6,B6D7A8,D5A6BD,EA9999,F4CCCC,F9CB9C,FFE599,FFFFFF",
+      "quantity": 6,
+      "level": 11
+    },
+    {
+      "position": "19",
+      "parts": "21-20-2",
+      "colorArray": "444444,9FC5E8,A2C4C9,B4A7D6,B6D7A8,D5A6BD,EA9999,F4CCCC,F9CB9C,FFE599,FFFFFF",
+      "quantity": 7,
+      "level": 11
+    },
+    {
+      "position": "19",
+      "parts": "22-21-2",
+      "colorArray": "444444,9FC5E8,A2C4C9,B4A7D6,B6D7A8,D5A6BD,EA9999,F4CCCC,F9CB9C,FFE599,FFFFFF",
+      "quantity": 8,
+      "level": 11
+    },
+    {
+      "position": "19",
+      "parts": "3-7-1",
+      "colorArray": "444444,9FC5E8,A2C4C9,B4A7D6,B6D7A8,D5A6BD,EA9999,F4CCCC,F9CB9C,FFE599,FFFFFF",
+      "quantity": 8,
+      "level": 11
+    },
+    {
+      "position": "19",
+      "parts": "4-8-1",
+      "colorArray": "444444,9FC5E8,A2C4C9,B4A7D6,B6D7A8,D5A6BD,EA9999,F4CCCC,F9CB9C,FFE599,FFFFFF",
+      "quantity": 6,
+      "level": 11
+    },
+    {
+      "position": "19",
+      "parts": "5-4-1",
+      "colorArray": "444444,9FC5E8,A2C4C9,B4A7D6,B6D7A8,D5A6BD,EA9999,F4CCCC,F9CB9C,FFE599,FFFFFF",
+      "quantity": 9,
+      "level": 11
+    },
+    {
+      "position": "19",
+      "parts": "6-2-1",
+      "colorArray": "444444,9FC5E8,A2C4C9,B4A7D6,B6D7A8,D5A6BD,EA9999,F4CCCC,F9CB9C,FFE599,FFFFFF",
+      "quantity": 19,
+      "level": 11
+    },
+    {
+      "position": "19",
+      "parts": "7-3-1",
+      "colorArray": "444444,9FC5E8,A2C4C9,B4A7D6,B6D7A8,D5A6BD,EA9999,F4CCCC,F9CB9C,FFE599,FFFFFF",
+      "quantity": 7,
+      "level": 11
+    },
+    {
+      "position": "19",
+      "parts": "8-5-1",
+      "colorArray": "",
+      "quantity": 5,
+      "level": 11
+    },
+    {
+      "position": "19",
+      "parts": "9-9-1",
+      "colorArray": "444444,9FC5E8,A2C4C9,B4A7D6,B6D7A8,D5A6BD,EA9999,F4CCCC,F9CB9C,FFE599,FFFFFF",
+      "quantity": 5,
+      "level": 11
+    }
+  ],
+  "2": [
+    {
+      "position": "2",
+      "parts": "1-23-1",
+      "colorArray": "",
+      "quantity": 24,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "10-46-2",
+      "colorArray": "",
+      "quantity": 5,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "11-47-2",
+      "colorArray": "",
+      "quantity": 5,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "12-18-1",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "13-22-1",
+      "colorArray": "",
+      "quantity": 24,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "14-48-2",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "15-16-1",
+      "colorArray": "",
+      "quantity": 5,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "16-17-1",
+      "colorArray": "",
+      "quantity": 5,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "17-3-1",
+      "colorArray": "",
+      "quantity": 26,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "18-9-1",
+      "colorArray": "",
+      "quantity": 28,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "19-33-2",
+      "colorArray": "",
+      "quantity": 28,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "2-19-1",
+      "colorArray": "",
+      "quantity": 24,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "20-39-2",
+      "colorArray": "",
+      "quantity": 28,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "21-7-1",
+      "colorArray": "",
+      "quantity": 28,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "22-13-1",
+      "colorArray": "",
+      "quantity": 22,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "23-37-2",
+      "colorArray": "",
+      "quantity": 28,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "24-43-2",
+      "colorArray": "",
+      "quantity": 28,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "25-4-1",
+      "colorArray": "",
+      "quantity": 1,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "26-5-1",
+      "colorArray": "000000,1775FF,BE36FF,F6FFFF,FF3C3C,FF63FF",
+      "quantity": 5,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "27-10-1",
+      "colorArray": "",
+      "quantity": 1,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "28-11-1",
+      "colorArray": "000000,1775FF,3E3E3E,BE36FF,E3FFE8,E586FF,F6FFFF",
+      "quantity": 5,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "29-34-2",
+      "colorArray": "",
+      "quantity": 1,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "3-1-1",
+      "colorArray": "",
+      "quantity": 4,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "30-35-2",
+      "colorArray": "000000,1775FF,3E3E3E,BE36FF,E3FFE8,E586FF,F6FFFF,FA6E6E,FF3C3C,FF63FF",
+      "quantity": 5,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "31-40-2",
+      "colorArray": "",
+      "quantity": 1,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "32-41-2",
+      "colorArray": "000000,0D42FF,242424,6D1FFF,82A085,834D98,8BC0FF,8F3F3F,EE39A0,FF2525",
+      "quantity": 5,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "33-54-2",
+      "colorArray": "000000,1775FF,3E3E3E,BE36FF,E3FFE8,E586FF,F6FFFF,FA6E6E,FF3C3C,FF63FF,FFE8E8,FFFBEA,FFFFFF",
+      "quantity": 5,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "34-2-1",
+      "colorArray": "",
+      "quantity": 5,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "35-6-1",
+      "colorArray": "",
+      "quantity": 1,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "36-8-1",
+      "colorArray": "",
+      "quantity": 5,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "37-15-1",
+      "colorArray": "",
+      "quantity": 10,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "38-32-2",
+      "colorArray": "",
+      "quantity": 6,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "39-38-2",
+      "colorArray": "",
+      "quantity": 6,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "4-25-1",
+      "colorArray": "000000,1674fe,3d3d3d,bd35fe,e2fee7,e486fe,f5fefe,f96e6e,fe3b3b,fe62fe,fee7e7,fefae9,fefefe",
+      "quantity": 4,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "40-45-2",
+      "colorArray": "",
+      "quantity": 11,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "41-20-1",
+      "colorArray": "000000,1775FF,3E3E3E,BE36FF,E3FFE8,E586FF,F6FFFF,FA6E6E,FF3C3C,FF63FF,FFE8E8,FFF4FF,FFFBEA",
+      "quantity": 15,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "42-51-2",
+      "colorArray": "000000,1775FF,3E3E3E,BE36FF,E3FFE8,E586FF,F6FFFF,FA6E6E,FF3C3C,FF63FF,FFE8E8,FFFBEA,FFFFFF",
+      "quantity": 6,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "43-55-2",
+      "colorArray": "",
+      "quantity": 26,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "44-53-2",
+      "colorArray": "000000,1775FF,3E3E3E,BE36FF,E3FFE8,E586FF,F6FFFF,FA6E6E,FF3C3C,FF63FF,FFE8E8,FFFBEA,FFFFFF",
+      "quantity": 5,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "45-52-2",
+      "colorArray": "",
+      "quantity": 26,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "46-50-2",
+      "colorArray": "000000,1775FF,3E3E3E,BE36FF,E3FFE8,E586FF,F6FFFF,FA6E6E,FF3C3C,FF63FF,FFE8E8,FFF4FF,FFFBEA,FFFFFF",
+      "quantity": 15,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "47-12-1",
+      "colorArray": "",
+      "quantity": 1,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "48-14-1",
+      "colorArray": "000000,1775FF,BE36FF,E3FFE8,E586FF,F6FFFF,FA6E6E,FF63FF,FFE8E8,FFFBEA",
+      "quantity": 10,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "49-27-1",
+      "colorArray": "",
+      "quantity": 2,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "5-26-1",
+      "colorArray": "",
+      "quantity": 39,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "50-28-1",
+      "colorArray": "809CFF,BDA1C8,BDCDBE,C2DCFD,CEC4BF,E0BDBD,E1F7FD,E6C5F3,E9E9E9,F697CD",
+      "quantity": 4,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "51-36-2",
+      "colorArray": "",
+      "quantity": 1,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "52-42-2",
+      "colorArray": "",
+      "quantity": 1,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "53-44-2",
+      "colorArray": "000000,0D42FF,6D1FFF,82A085,834D98,8BC0FF,8F3F3F,979292,A28585,EE39A0,FF2525",
+      "quantity": 9,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "54-56-2",
+      "colorArray": "",
+      "quantity": 2,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "55-57-2",
+      "colorArray": "809CFF,BDA1C8,BDCDBE,C2DCFD,CEBEBE,E1F7FD,E4DCD8,E5DDF0,F697CD,FFF5C3",
+      "quantity": 4,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "56-29-1",
+      "colorArray": "",
+      "quantity": 4,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "57-58-2",
+      "colorArray": "",
+      "quantity": 4,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "58-30-1",
+      "colorArray": "",
+      "quantity": 26,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "59-59-2",
+      "colorArray": "",
+      "quantity": 26,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "6-49-2",
+      "colorArray": "",
+      "quantity": 28,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "60-60-1",
+      "colorArray": "",
+      "quantity": 48,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "7-21-1",
+      "colorArray": "000000,1775FF,3E3E3E,BE36FF,E3FFE8,E586FF,F6FFFF,FA6E6E,FF3C3C,FF63FF,FFE8E8,FFFBEA",
+      "quantity": 8,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "8-24-1",
+      "colorArray": "",
+      "quantity": 36,
+      "level": 12
+    },
+    {
+      "position": "2",
+      "parts": "9-31-2",
+      "colorArray": "",
+      "quantity": 4,
+      "level": 12
+    }
+  ],
+  "20": [
+    {
+      "position": "20",
+      "parts": "1-20-2",
+      "colorArray": "0000FF,3D85C6,444444,45818E,4C1130,674EA7,6AA84F,76A5AF,A64D79,CC0000,CCCCCC,D3C9D0,E69138,F4CCCC,FF00FF,FFE599,FFF2CC,FFFFFF",
+      "quantity": 8,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "10-25-1",
+      "colorArray": "0000FF,3D85C6,444444,45818E,62574F,674EA7,6AA84F,76A5AF,A64D79,CC0000,CCCCCC,D3C9D0,E69138,F4CCCC,FF00FF,FFE599,FFF2CC,FFFFFF",
+      "quantity": 5,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "11-26-1",
+      "colorArray": "0000FF,3D85C6,444444,45818E,62574F,674EA7,6AA84F,76A5AF,A64D79,CC0000,CCCCCC,D3C9D0,E69138,F4CCCC,FF00FF,FFE599,FFF2CC,FFFFFF",
+      "quantity": 5,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "12-3-1",
+      "colorArray": "",
+      "quantity": 4,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "13-15-1",
+      "colorArray": "",
+      "quantity": 11,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "14-27-1",
+      "colorArray": "",
+      "quantity": 18,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "15-6-1",
+      "colorArray": "000000,0000FF,00FFFF,45818E,6AA84F,6FA8DC,76A5AF,8E7CC3,C27BA0,E06666,F6B26B,FFD966,FFFFFF",
+      "quantity": 18,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "16-7-1",
+      "colorArray": "000000,0000FF,00FFFF,45818E,6FA8DC,76A5AF,8E7CC3,93C47D,C27BA0,E06666,F6B26B,FFD966,FFFFFF",
+      "quantity": 18,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "17-10-1",
+      "colorArray": "000000,FFFFFF",
+      "quantity": 45,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "18-28-1",
+      "colorArray": "0000FF,3D85C6,444444,45818E,4C1130,674EA7,6AA84F,76A5AF,A64D79,CC0000,CCCCCC,E69138,EAD1DC,F4CCCC,FF00FF,FFE599,FFF2CC,FFFFFF",
+      "quantity": 14,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "19-12-1",
+      "colorArray": "F3F3F3,FFFFFF",
+      "quantity": 3,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "2-21-1",
+      "colorArray": "0000FF,3D85C6,444444,45818E,4C1130,674EA7,6AA84F,76A5AF,A64D79,CC0000,CCCCCC,E69138,EAD1DC,F4CCCC,FF00FF,FFE599,FFF2CC,FFFFFF",
+      "quantity": 8,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "20-18-1",
+      "colorArray": "",
+      "quantity": 10,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "21-42-1",
+      "colorArray": "",
+      "quantity": 13,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "22-43-1",
+      "colorArray": "",
+      "quantity": 13,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "23-16-1",
+      "colorArray": "",
+      "quantity": 6,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "24-29-1",
+      "colorArray": "0000FF,3D85C6,444444,45818E,4C1130,674EA7,6AA84F,76A5AF,A64D79,CC0000,CCCCCC,E69138,EAD1DC,F4CCCC,FF00FF,FFE599,FFF2CC,FFFFFF",
+      "quantity": 14,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "25-30-1",
+      "colorArray": "0000FF,3D85C6,444444,45818E,62574F,674EA7,6AA84F,76A5AF,A64D79,CC0000,CCCCCC,D3C9D0,E69138,F4CCCC,FF00FF,FFE599,FFF2CC,FFFFFF",
+      "quantity": 9,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "26-31-1",
+      "colorArray": "0000FF,3D85C6,444444,45818E,62574F,674EA7,6AA84F,76A5AF,A64D79,CC0000,CCCCCC,D3C9D0,E69138,F4CCCC,FF00FF,FFE599,FFF2CC,FFFFFF",
+      "quantity": 18,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "27-32-1",
+      "colorArray": "0000FF,3D85C6,444444,45818E,4C1130,674EA7,6AA84F,76A5AF,A64D79,CC0000,CCCCCC,E69138,EAD1DC,F4CCCC,FF00FF,FFE599,FFF2CC,FFFFFF",
+      "quantity": 11,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "28-33-2",
+      "colorArray": "0000FF,3D85C6,444444,45818E,62574F,674EA7,6AA84F,76A5AF,A64D79,CC0000,CCCCCC,D3C9D0,E69138,F4CCCC,FF00FF,FFE599,FFF2CC,FFFFFF",
+      "quantity": 18,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "29-34-2",
+      "colorArray": "0000FF,3D85C6,444444,45818E,62574F,674EA7,6AA84F,76A5AF,A64D79,CC0000,CCCCCC,D3C9D0,E69138,F4CCCC,FF00FF,FFE599,FFF2CC,FFFFFF",
+      "quantity": 5,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "3-22-1",
+      "colorArray": "0000FF,3D85C6,444444,45818E,4C1130,674EA7,6AA84F,76A5AF,A64D79,CC0000,CCCCCC,E69138,EAD1DC,F4CCCC,FF00FF,FFE599,FFF2CC,FFFFFF",
+      "quantity": 16,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "30-35-2",
+      "colorArray": "0000FF,3D85C6,444444,45818E,62574F,674EA7,6AA84F,76A5AF,A64D79,CC0000,CCCCCC,D3C9D0,E69138,F4CCCC,FF00FF,FFE599,FFF2CC,FFFFFF",
+      "quantity": 5,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "31-4-2",
+      "colorArray": "",
+      "quantity": 2,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "32-14-2",
+      "colorArray": "",
+      "quantity": 11,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "33-36-2",
+      "colorArray": "",
+      "quantity": 18,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "34-8-2",
+      "colorArray": "000000,0000FF,00FFFF,45818E,6AA84F,6FA8DC,76A5AF,8E7CC3,C27BA0,E06666,F6B26B,FFD966,FFFFFF",
+      "quantity": 18,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "35-9-2",
+      "colorArray": "000000,0000FF,00FFFF,45818E,6FA8DC,76A5AF,8E7CC3,93C47D,C27BA0,E06666,F6B26B,FFD966,FFFFFF",
+      "quantity": 18,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "36-11-2",
+      "colorArray": "000000,FFFFFF",
+      "quantity": 45,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "37-37-2",
+      "colorArray": "0000FF,3D85C6,444444,45818E,4C1130,674EA7,6AA84F,76A5AF,A64D79,CC0000,CCCCCC,D3C9D0,E69138,F4CCCC,FF00FF,FFE599,FFF2CC,FFFFFF",
+      "quantity": 14,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "38-13-2",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "39-19-2",
+      "colorArray": "",
+      "quantity": 10,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "4-23-2",
+      "colorArray": "0000FF,3D85C6,444444,45818E,4C1130,674EA7,6AA84F,76A5AF,A64D79,CC0000,CCCCCC,D3C9D0,E69138,F4CCCC,FF00FF,FFE599,FFF2CC,FFFFFF",
+      "quantity": 16,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "40-45-2",
+      "colorArray": "",
+      "quantity": 13,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "41-44-2",
+      "colorArray": "",
+      "quantity": 13,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "42-17-2",
+      "colorArray": "",
+      "quantity": 6,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "43-38-2",
+      "colorArray": "0000FF,3D85C6,444444,45818E,4C1130,674EA7,6AA84F,76A5AF,A64D79,CC0000,CCCCCC,D3C9D0,E69138,F4CCCC,FF00FF,FFE599,FFF2CC,FFFFFF",
+      "quantity": 14,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "44-39-2",
+      "colorArray": "0000FF,3D85C6,444444,45818E,62574F,674EA7,6AA84F,76A5AF,A64D79,CC0000,CCCCCC,D3C9D0,E69138,F4CCCC,FF00FF,FFE599,FFF2CC,FFFFFF",
+      "quantity": 9,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "45-40-2",
+      "colorArray": "0000FF,3D85C6,444444,45818E,62574F,674EA7,6AA84F,76A5AF,A64D79,CC0000,CCCCCC,D3C9D0,E69138,F4CCCC,FF00FF,FFE599,FFF2CC,FFFFFF",
+      "quantity": 18,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "46-41-2",
+      "colorArray": "0000FF,3D85C6,444444,45818E,4C1130,674EA7,6AA84F,76A5AF,A64D79,CC0000,CCCCCC,D3C9D0,E69138,F4CCCC,FF00FF,FFE599,FFF2CC,FFFFFF",
+      "quantity": 11,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "47-48-1",
+      "colorArray": "000000,FFFFFF",
+      "quantity": 42,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "48-49-2",
+      "colorArray": "000000,FFFFFF",
+      "quantity": 42,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "49-5-1",
+      "colorArray": "F3F3F3,FFFFFF",
+      "quantity": 9,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "5-1-1",
+      "colorArray": "",
+      "quantity": 2,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "6-46-1",
+      "colorArray": "000000,FFFFFF",
+      "quantity": 40,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "7-2-2",
+      "colorArray": "",
+      "quantity": 1,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "8-47-2",
+      "colorArray": "000000,FFFFFF",
+      "quantity": 40,
+      "level": 13
+    },
+    {
+      "position": "20",
+      "parts": "9-24-1",
+      "colorArray": "0000FF,3D85C6,444444,45818E,62574F,674EA7,6AA84F,76A5AF,A64D79,CC0000,CCCCCC,D3C9D0,E69138,F4CCCC,FF00FF,FFE599,FFF2CC,FFFFFF",
+      "quantity": 18,
+      "level": 13
+    }
+  ],
+  "21": [
+    {
+      "position": "21",
+      "parts": "1-17-2",
+      "colorArray": "",
+      "quantity": 8,
+      "level": 14
+    },
+    {
+      "position": "21",
+      "parts": "10-14-2",
+      "colorArray": "",
+      "quantity": 12,
+      "level": 14
+    },
+    {
+      "position": "21",
+      "parts": "11-9-1",
+      "colorArray": "",
+      "quantity": 9,
+      "level": 14
+    },
+    {
+      "position": "21",
+      "parts": "12-16-2",
+      "colorArray": "",
+      "quantity": 9,
+      "level": 14
+    },
+    {
+      "position": "21",
+      "parts": "13-11-1",
+      "colorArray": "",
+      "quantity": 14,
+      "level": 14
+    },
+    {
+      "position": "21",
+      "parts": "14-18-2",
+      "colorArray": "",
+      "quantity": 14,
+      "level": 14
+    },
+    {
+      "position": "21",
+      "parts": "15-8-1",
+      "colorArray": "",
+      "quantity": 27,
+      "level": 14
+    },
+    {
+      "position": "21",
+      "parts": "16-15-2",
+      "colorArray": "",
+      "quantity": 27,
+      "level": 14
+    },
+    {
+      "position": "21",
+      "parts": "17-3-1",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 14
+    },
+    {
+      "position": "21",
+      "parts": "18-4-2",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 14
+    },
+    {
+      "position": "21",
+      "parts": "2-10-1",
+      "colorArray": "",
+      "quantity": 8,
+      "level": 14
+    },
+    {
+      "position": "21",
+      "parts": "3-1-1",
+      "colorArray": "",
+      "quantity": 2,
+      "level": 14
+    },
+    {
+      "position": "21",
+      "parts": "4-2-2",
+      "colorArray": "",
+      "quantity": 2,
+      "level": 14
+    },
+    {
+      "position": "21",
+      "parts": "5-5-1",
+      "colorArray": "",
+      "quantity": 29,
+      "level": 14
+    },
+    {
+      "position": "21",
+      "parts": "6-12-2",
+      "colorArray": "",
+      "quantity": 29,
+      "level": 14
+    },
+    {
+      "position": "21",
+      "parts": "7-6-1",
+      "colorArray": "",
+      "quantity": 18,
+      "level": 14
+    },
+    {
+      "position": "21",
+      "parts": "8-13-2",
+      "colorArray": "",
+      "quantity": 18,
+      "level": 14
+    },
+    {
+      "position": "21",
+      "parts": "9-7-1",
+      "colorArray": "",
+      "quantity": 12,
+      "level": 14
+    }
+  ],
+  "22": [
+    {
+      "position": "22",
+      "parts": "1-25-2",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "10-26-2",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "11-44-2",
+      "colorArray": "",
+      "quantity": 2,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "12-40-2",
+      "colorArray": "0B5394,191919,3F97FF,7F759D,9FD371,BA7730,C0AE6E,CFC0A5,D2EAFF,D6D3D3,ECFBFF,F4C3FF,FC8F1E,FEFFF0,FF3333,FFBFBF,FFD966,FFF5CD",
+      "quantity": 10,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "13-46-2",
+      "colorArray": "",
+      "quantity": 4,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "14-45-2",
+      "colorArray": "",
+      "quantity": 24,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "15-42-2",
+      "colorArray": "",
+      "quantity": 18,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "16-41-2",
+      "colorArray": "",
+      "quantity": 36,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "17-39-2",
+      "colorArray": "",
+      "quantity": 18,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "18-38-2",
+      "colorArray": "",
+      "quantity": 18,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "19-37-2",
+      "colorArray": "000000,0B5394,30AAF8,847F9D,AED34D,BB7B36,C6B076,CBE6FF,D3C8AA,D5D5D5,E3BFFF,EBF8FF,FF2525,FF972A,FFC3C3,FFD966,FFFAEB,FFFCBB",
+      "quantity": 10,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "2-34-2",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "20-43-2",
+      "colorArray": "",
+      "quantity": 18,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "21-32-2",
+      "colorArray": "",
+      "quantity": 8,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "22-23-1",
+      "colorArray": "9F7070,F8DDC8,FFF9EA",
+      "quantity": 7,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "23-1-1",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "24-18-1",
+      "colorArray": "0D0D0D,6953FF,C8F8FF,DEFF71,F7F9C5,FF4444,FFDCDC,FFFFFF",
+      "quantity": 6,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "25-9-1",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "26-10-1",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "27-4-1",
+      "colorArray": "",
+      "quantity": 14,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "28-3-1",
+      "colorArray": "",
+      "quantity": 14,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "29-5-1",
+      "colorArray": "",
+      "quantity": 6,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "3-35-2",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "30-6-1",
+      "colorArray": "",
+      "quantity": 6,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "31-2-1",
+      "colorArray": "000000,525252,979797,CBCBCB,FFFFFF",
+      "quantity": 3,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "32-8-1",
+      "colorArray": "",
+      "quantity": 12,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "33-24-1",
+      "colorArray": "",
+      "quantity": 1,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "34-20-1",
+      "colorArray": "",
+      "quantity": 7,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "35-19-1",
+      "colorArray": "",
+      "quantity": 8,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "36-15-1",
+      "colorArray": "000000,0B5394,2598FF,785F97,A7CD56,BCBCBC,BFE1FF,C76E22,C9A029,D2C9B3,DBBEFF,F2F7FF,FD1616,FDEFB9,FF9720,FFADCC,FFD966,FFF8F1",
+      "quantity": 23,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "37-16-1",
+      "colorArray": "",
+      "quantity": 36,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "38-14-1",
+      "colorArray": "",
+      "quantity": 36,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "39-12-1",
+      "colorArray": "000000,0B5394,3CA1FF,8673AA,9BCF49,C8E6FF,CBCBCB,CCC1A9,D18743,D2C05E,ED1919,F0B5F7,F2FEFF,F78E0D,F9B3CA,FFD966,FFF4C8,FFFCF4",
+      "quantity": 10,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "4-29-2",
+      "colorArray": "",
+      "quantity": 14,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "40-13-1",
+      "colorArray": "",
+      "quantity": 36,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "41-17-1",
+      "colorArray": "",
+      "quantity": 54,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "42-22-1",
+      "colorArray": "",
+      "quantity": 2,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "43-7-1",
+      "colorArray": "",
+      "quantity": 8,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "44-21-1",
+      "colorArray": "",
+      "quantity": 6,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "45-11-1",
+      "colorArray": "",
+      "quantity": 1,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "46-36-2",
+      "colorArray": "",
+      "quantity": 1,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "47-47-1",
+      "colorArray": "",
+      "quantity": 10,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "5-28-2",
+      "colorArray": "",
+      "quantity": 14,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "6-30-2",
+      "colorArray": "",
+      "quantity": 6,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "7-27-2",
+      "colorArray": "",
+      "quantity": 15,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "8-31-2",
+      "colorArray": "",
+      "quantity": 6,
+      "level": 15
+    },
+    {
+      "position": "22",
+      "parts": "9-33-2",
+      "colorArray": "",
+      "quantity": 12,
+      "level": 15
+    }
+  ],
+  "3": [
+    {
+      "position": "3",
+      "parts": "1-14-1",
+      "colorArray": "",
+      "quantity": 2,
+      "level": 16
+    },
+    {
+      "position": "3",
+      "parts": "10-16-1",
+      "colorArray": "",
+      "quantity": 7,
+      "level": 16
+    },
+    {
+      "position": "3",
+      "parts": "11-17-1",
+      "colorArray": "",
+      "quantity": 16,
+      "level": 16
+    },
+    {
+      "position": "3",
+      "parts": "12-18-1",
+      "colorArray": "",
+      "quantity": 7,
+      "level": 16
+    },
+    {
+      "position": "3",
+      "parts": "13-9-1",
+      "colorArray": "1DFFFF,730C05,AAB626,CED4D8,D0DDF5,E3D2F4,E3EFFF,EEE6CF,FFB599,FFC6FF,FFFF2D",
+      "quantity": 18,
+      "level": 16
+    },
+    {
+      "position": "3",
+      "parts": "14-8-1",
+      "colorArray": "1DFFFF,D0DDF5,D1D1D1,EEE6CF,EFF1D6,FFB599,FFC6FF,FFFF2D",
+      "quantity": 8,
+      "level": 16
+    },
+    {
+      "position": "3",
+      "parts": "15-7-1",
+      "colorArray": "000000,1DFFFF,D0DDF5,D1D1D1,EEE6CF,EFF1D6,FFB599,FFC6FF,FFFF2D",
+      "quantity": 18,
+      "level": 16
+    },
+    {
+      "position": "3",
+      "parts": "16-2-1",
+      "colorArray": "",
+      "quantity": 1,
+      "level": 16
+    },
+    {
+      "position": "3",
+      "parts": "17-3-1",
+      "colorArray": "0024A6,007EA6,57CFA0,61A5FF,7600A6,A60000,A60055,A65000,A69000",
+      "quantity": 30,
+      "level": 16
+    },
+    {
+      "position": "3",
+      "parts": "18-4-1",
+      "colorArray": "000000,00ABE2,7A0C05,CBD7F3,FFC3FF",
+      "quantity": 12,
+      "level": 16
+    },
+    {
+      "position": "3",
+      "parts": "19-5-1",
+      "colorArray": "",
+      "quantity": 15,
+      "level": 16
+    },
+    {
+      "position": "3",
+      "parts": "2-29-2",
+      "colorArray": "752536,83FFFF,AAB626,D0DDF5,E3D2F4,E3EFFF,EEE6CF,FEFEFE,FFB599,FFC6FF,FFFF2D",
+      "quantity": 13,
+      "level": 16
+    },
+    {
+      "position": "3",
+      "parts": "20-11-1",
+      "colorArray": "1DFFFF,730C05,D0DDF5,D1D1D1,E3D2F4,E3EFFF,EEE6CF,EFF1D6,FFB599,FFC6FF,FFFF2D",
+      "quantity": 7,
+      "level": 16
+    },
+    {
+      "position": "3",
+      "parts": "21-12-1",
+      "colorArray": "1DFFFF,730C05,AAB626,D0DDF5,D1D1D1,E3D2F4,E3EFFF,EEE6CF,FFB599,FFC6FF,FFFF2D",
+      "quantity": 5,
+      "level": 16
+    },
+    {
+      "position": "3",
+      "parts": "22-26-2",
+      "colorArray": "752536,83FFFF,AAB626,D0DDF5,E3D2F4,E3EFFF,EEE6CF,FEFEFE,FFB599,FFC6FF,FFFF2D",
+      "quantity": 6,
+      "level": 16
+    },
+    {
+      "position": "3",
+      "parts": "23-27-2",
+      "colorArray": "752536,83FFFF,AAB626,D0DDF5,E3D2F4,E3EFFF,EEE6CF,FEFEFE,FFB599,FFC6FF,FFFF2D",
+      "quantity": 6,
+      "level": 16
+    },
+    {
+      "position": "3",
+      "parts": "24-20-2",
+      "colorArray": "",
+      "quantity": 1,
+      "level": 16
+    },
+    {
+      "position": "3",
+      "parts": "25-34-2",
+      "colorArray": "001C33,AB3800",
+      "quantity": 8,
+      "level": 16
+    },
+    {
+      "position": "3",
+      "parts": "26-35-2",
+      "colorArray": "",
+      "quantity": 6,
+      "level": 16
+    },
+    {
+      "position": "3",
+      "parts": "27-36-2",
+      "colorArray": "",
+      "quantity": 6,
+      "level": 16
+    },
+    {
+      "position": "3",
+      "parts": "28-37-2",
+      "colorArray": "",
+      "quantity": 2,
+      "level": 16
+    },
+    {
+      "position": "3",
+      "parts": "29-33-2",
+      "colorArray": "752536,83FFFF,AAB626,D0DDF5,E3D2F4,E3EFFF,EEE6CF,FEFEFE,FFB599,FFC6FF,FFFF2D",
+      "quantity": 18,
+      "level": 16
+    },
+    {
+      "position": "3",
+      "parts": "3-32-2",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 16
+    },
+    {
+      "position": "3",
+      "parts": "30-25-2",
+      "colorArray": "752536,83FFFF,AAB626,D0DDF5,E3D2F4,E3EFFF,EEE6CF,FEFEFE,FFB599,FFC6FF,FFFF2D",
+      "quantity": 20,
+      "level": 16
+    },
+    {
+      "position": "3",
+      "parts": "31-21-2",
+      "colorArray": "29FFFF,3C57BB,3D017F,6D6D6D,77BF02,7F0101,8DBEFF,9955BF,A9B2C9,BB793D,BB9B3C,BEC759,E9DCF6,FF5447,FFFF21",
+      "quantity": 38,
+      "level": 16
+    },
+    {
+      "position": "3",
+      "parts": "32-22-2",
+      "colorArray": "007EA6,054265,730C05,DCE4F7,FFF4F8",
+      "quantity": 7,
+      "level": 16
+    },
+    {
+      "position": "3",
+      "parts": "33-23-2",
+      "colorArray": "",
+      "quantity": 12,
+      "level": 16
+    },
+    {
+      "position": "3",
+      "parts": "34-30-2",
+      "colorArray": "752536,83FFFF,AAB626,D0DDF5,E3D2F4,E3EFFF,EEE6CF,FEFEFE,FFB599,FFC6FF,FFFF2D",
+      "quantity": 14,
+      "level": 16
+    },
+    {
+      "position": "3",
+      "parts": "35-31-2",
+      "colorArray": "752536,83FFFF,AAB626,D0DDF5,E3D2F4,E3EFFF,EEE6CF,FEFEFE,FFB599,FFC6FF,FFFF2D",
+      "quantity": 4,
+      "level": 16
+    },
+    {
+      "position": "3",
+      "parts": "36-40-1",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 16
+    },
+    {
+      "position": "3",
+      "parts": "37-41-2",
+      "colorArray": "",
+      "quantity": 7,
+      "level": 16
+    },
+    {
+      "position": "3",
+      "parts": "38-24-2",
+      "colorArray": "",
+      "quantity": 8,
+      "level": 16
+    },
+    {
+      "position": "3",
+      "parts": "39-19-1",
+      "colorArray": "001C33,983606",
+      "quantity": 11,
+      "level": 16
+    },
+    {
+      "position": "3",
+      "parts": "4-13-1",
+      "colorArray": "1DFFFF,752536,AAB626,D0DDF5,D1D1D1,E3D2F4,E3EFFF,EEE6CF,FFB599,FFC6FF,FFFF2D",
+      "quantity": 20,
+      "level": 16
+    },
+    {
+      "position": "3",
+      "parts": "40-38-2",
+      "colorArray": "9FFFFF,D0DDF5,D8DDE0,E3EFFF,EEE6CF,EFF1D6,FEFEFE,FFB599,FFC6FF",
+      "quantity": 3,
+      "level": 16
+    },
+    {
+      "position": "3",
+      "parts": "41-39-1",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 16
+    },
+    {
+      "position": "3",
+      "parts": "5-10-1",
+      "colorArray": "1DFFFF,730C05,AAB626,D0DDF5,D1D1D1,E3D2F4,E3EFFF,EEE6CF,FFB599,FFC6FF,FFFF2D",
+      "quantity": 13,
+      "level": 16
+    },
+    {
+      "position": "3",
+      "parts": "6-28-2",
+      "colorArray": "752536,83FFFF,AAB626,D0DDF5,E3D2F4,E3EFFF,EEE6CF,FEFEFE,FFB599,FFC6FF,FFFF2D",
+      "quantity": 16,
+      "level": 16
+    },
+    {
+      "position": "3",
+      "parts": "7-1-1",
+      "colorArray": "",
+      "quantity": 1,
+      "level": 16
+    },
+    {
+      "position": "3",
+      "parts": "8-6-1",
+      "colorArray": "",
+      "quantity": 7,
+      "level": 16
+    },
+    {
+      "position": "3",
+      "parts": "9-15-1",
+      "colorArray": "001C33,983606",
+      "quantity": 16,
+      "level": 16
+    }
+  ],
+  "4": [
+    {
+      "position": "4",
+      "parts": "1-51-1",
+      "colorArray": "BFBA78,C93B3B,CC8780,FFABAB",
+      "quantity": 8,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "10-29-2",
+      "colorArray": "6F8092,77ABFF,7C8082,8879A4,8B7E83,99684F,C5AEA2,EBF6FF,FF8484,FFAD6A,FFFF81,FFFFE3",
+      "quantity": 8,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "11-30-2",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "12-28-2",
+      "colorArray": "000000,FFDDC4,FFFFFF",
+      "quantity": 9,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "13-31-2",
+      "colorArray": "",
+      "quantity": 13,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "14-44-2",
+      "colorArray": "524d48,653030,746e66,86897b,878486,8d838c,908279",
+      "quantity": 18,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "15-45-2",
+      "colorArray": "8e847c,afac9d,b02a2a,b0a8a5,b4a7a9,b6a69c,c66100,fedbce",
+      "quantity": 17,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "16-27-2",
+      "colorArray": "",
+      "quantity": 10,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "17-34-2",
+      "colorArray": "",
+      "quantity": 45,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "18-35-2",
+      "colorArray": "",
+      "quantity": 20,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "19-36-2",
+      "colorArray": "3e393d,61312e",
+      "quantity": 18,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "2-50-1",
+      "colorArray": "2a381e,303d46,6e7c5b,808383,8a7ba6,8e8184,c4ada1,fcae6b,fcc867",
+      "quantity": 6,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "20-38-2",
+      "colorArray": "0b0a09,27362c,2f3722,2f3a40,6b7073,796c8f,7a6e74,7c8564,ad998f,e6e5e5,ebb761,f5a367",
+      "quantity": 8,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "21-37-2",
+      "colorArray": "040303,203429,2a351e,2f3a42,757a7d,75815f,83767d,84769e,c1ab9f,f9f8f8,fabe64,fba667",
+      "quantity": 24,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "22-42-2",
+      "colorArray": "303436,363f34,383337,3b3f2d,3b454a,444343,4a4257,806338,85896a,b0adab,b1a6a4,dddbdb,e5e3e3,ee9d6b,eed2cd",
+      "quantity": 6,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "23-46-2",
+      "colorArray": "59595d,595f54,5a5858,5b5048,786f7e",
+      "quantity": 40,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "24-48-2",
+      "colorArray": "36434d,677555,7f8181,8c7f82,8d7ea6,c4aea2,f7ce70",
+      "quantity": 37,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "25-47-2",
+      "colorArray": "59595d,595f54,5a5858,5b5048,786f7e",
+      "quantity": 40,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "26-15-1",
+      "colorArray": "040303,20352a,2b361f,303b45,727e5d,7b7f81,8778a1,8a7d82,c2aca1,dedede,fac366,fba969,fcfbfb",
+      "quantity": 21,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "27-24-1",
+      "colorArray": "3c3739,7d5141,994c4c,b6b6b6,bf9581,ecdcd4",
+      "quantity": 3,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "28-13-1",
+      "colorArray": "050505,283c30,313d24,36434d,5f6b4d,8c8c89,9889b8,988b8a,ceb1a5,f9bd75,f9f9f9,fada71",
+      "quantity": 6,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "29-1-1",
+      "colorArray": "",
+      "quantity": 5,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "3-41-2",
+      "colorArray": "060505,22362b,2d3721,333f47,727d5d,808384,8c7da7,8e8184,c5aea2,f9ca69,f9f8f8,fbb06f",
+      "quantity": 41,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "30-7-1",
+      "colorArray": "",
+      "quantity": 21,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "31-8-1",
+      "colorArray": "",
+      "quantity": 21,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "32-19-1",
+      "colorArray": "",
+      "quantity": 10,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "33-18-1",
+      "colorArray": "",
+      "quantity": 10,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "34-4-1",
+      "colorArray": "592C19,6E7F91,717171,76A9FF,7B7F81,8778A2,8A7D82,98674E,C4AEA2,FF8383,FFAB69,FFC363,FFFFFF_2",
+      "quantity": 12,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "35-5-1",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "36-3-1",
+      "colorArray": "000000,C2C1C1,FFDDC4",
+      "quantity": 10,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "37-6-1",
+      "colorArray": "",
+      "quantity": 18,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "38-9-1",
+      "colorArray": "",
+      "quantity": 20,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "39-10-1",
+      "colorArray": "",
+      "quantity": 25,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "4-40-2",
+      "colorArray": "010101,1f362b,2a371e,2f3b45,72805e,7b7f81,8677a0,8b7e82,c4aea2,fdac6a,fdc666,fdfcfc",
+      "quantity": 21,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "40-20-1",
+      "colorArray": "524c47,653030,736c64,878a7b,888587,8e838d,908279,c0d6d1,e5d3d0,e6fcfc,fdfbce,fed2c6",
+      "quantity": 44,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "41-16-1",
+      "colorArray": "070605,23372c,2c3620,344049,667153,828584,8f7fab,908385,c5aea2,f7f6f6,f9ce6c,fbb36f",
+      "quantity": 10,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "42-2-1",
+      "colorArray": "",
+      "quantity": 10,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "43-11-1",
+      "colorArray": "505050,626262,826F7B,AB5C54,FFFFDF,FFFFFF",
+      "quantity": 18,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "44-14-1",
+      "colorArray": "070606,23362b,2d3720,313d46,74787b,747f5f,83749c,84777c,c3aca1,cbcaca,f8c164,f9a769,fcf9f8",
+      "quantity": 8,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "45-12-1",
+      "colorArray": "040404,23382d,2d3921,323e47,6f7b5b,7f8282,8d8083,8e7faa,c5afa2,f9f8f9,facc6b,fcb570",
+      "quantity": 22,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "46-17-1",
+      "colorArray": "252220,333e33,3a3f2b,3a454a,464a4d,574e54,7a6d92,7f8566,ae9a8f,c4c2c2,e3b061,f1a06a",
+      "quantity": 6,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "47-21-1",
+      "colorArray": "54555b,555353,574b43,776e80,958479,969d8b,9d6562,9fb2af,a99b9c,bb897e,d1cccc,d8c39c",
+      "quantity": 24,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "48-23-1",
+      "colorArray": "040403,21362b,2c3820,334049,647253,838585,8e7faa,908385,c9b2a5,fab270,fbd673,fbfafa",
+      "quantity": 10,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "49-22-1",
+      "colorArray": "54555b,555353,574b43,776e80,958479,969d8b,9d6562,9fb2af,a99b9c,bb897e,d1cccc,d8c39c",
+      "quantity": 20,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "5-39-2",
+      "colorArray": "0d0c0b,2e4034,333e26,38454d,697456,7e8080,8c7f81,9081ac,c5aea1,e9e8e8,f4d06e,f6f4f3,f7b06f",
+      "quantity": 8,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "50-49-2",
+      "colorArray": "3d383a,805444,994c4c,bbbbbb,c29984,e3eddd,ecdcd4",
+      "quantity": 3,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "51-25-1",
+      "colorArray": "3f4e57,6b6f71,796e74,7a8664,897ba2,bea89c,cccccc,f69c60,f8c56f",
+      "quantity": 6,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "52-52-1",
+      "colorArray": "",
+      "quantity": 15,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "53-53-2",
+      "colorArray": "",
+      "quantity": 12,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "6-26-2",
+      "colorArray": "",
+      "quantity": 5,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "7-32-2",
+      "colorArray": "",
+      "quantity": 18,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "8-33-2",
+      "colorArray": "",
+      "quantity": 14,
+      "level": 17
+    },
+    {
+      "position": "4",
+      "parts": "9-43-2",
+      "colorArray": "",
+      "quantity": 12,
+      "level": 17
+    }
+  ],
+  "5": [
+    {
+      "position": "5",
+      "parts": "1-49-1",
+      "colorArray": "116228,21D5A5,326ACC,3A0A27,4AA227,4FA6D1,5C2525",
+      "quantity": 3,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "10-4-2",
+      "colorArray": "000000,118F99,161B8E,3DDF3A,52A6E6,6EA808,981111,9FDBFF,A76F08,BB74DC,BDC642,BEE4B6,CED0B7,D5CACA,D79ABC,E04949,E7B6D5,F1DE28,FFA0B2,FFC692",
+      "quantity": 9,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "11-5-2",
+      "colorArray": "",
+      "quantity": 5,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "12-7-2",
+      "colorArray": "000000,10989E,151B91,40EA37,57B7EF,77AD07,897F83,9D1010,AAE4FF,AC7207,B574E9,C9D347,CFEEBB,DBCBAC,E69FB5,E94747,F0BDDA,F2E32D,FFABB7,FFCF95",
+      "quantity": 9,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "13-8-2",
+      "colorArray": "",
+      "quantity": 5,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "14-11-2",
+      "colorArray": "",
+      "quantity": 7,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "15-12-2",
+      "colorArray": "",
+      "quantity": 12,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "16-18-2",
+      "colorArray": "48495e,4a2e2e,4a3944,4b3b38,4c6575,4f2f4e,582638,5d5946,607e82,62706e,645d59,676269,6c3169,723737,797856,7a597a,7b6a68,7d5a69,7f3232,823c5a,89586b,8a5b4d",
+      "quantity": 23,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "17-6-2",
+      "colorArray": "",
+      "quantity": 5,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "18-9-2",
+      "colorArray": "",
+      "quantity": 5,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "19-14-2",
+      "colorArray": "7e5d6e,949ba6,a8b9ba,b88888,bc93a5",
+      "quantity": 3,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "2-17-2",
+      "colorArray": "48495e,4a2e2e,4b3944,4c3b38,4c6575,4f2f4f,582638,5d5946,607e82,62706f,645e59,676268,6b3069,723737,797957,7a597a,7c6a68,7d5a69,7f3232,833c5a,89586c,8a5c4e",
+      "quantity": 19,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "20-15-2",
+      "colorArray": "424155,442a2a,45333d,463533,465a69,492a46,512232,55503f,587173,5a6463,5c5350,5e585e,622c5e,683232,6e6b4d,6f506d,715f5e,72515e,742e2e,773650,7c4f60,7d5246",
+      "quantity": 12,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "21-37-1",
+      "colorArray": "413f51,422828,43313b,443331,445765,472944,4f2131,534d3d,566c70,57615f,59514d,5c555a,5f2a5b,653030,6b684b,6c4d69,6d5c5a,6e4e5a,702c2c,73344e,784c5d,7a4f43",
+      "quantity": 12,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "22-20-2",
+      "colorArray": "",
+      "quantity": 12,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "23-21-2",
+      "colorArray": "",
+      "quantity": 12,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "24-13-2",
+      "colorArray": "4c4e65,4d3131,4e3c48,4f3f3c,506b7d,533253,5c283c,625f4a,65868a,677776,69635f,6c686f,713470,783b3b,7f805c,815f82,82716f,84606f,863535,8a4060,915e72,926152",
+      "quantity": 35,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "25-25-2",
+      "colorArray": "2e394c,372e34,384f4d,3a2f6b,454735,48495f,492f2f,4a3944,4b3b39,4c6576,4f2f4f,582639,5d5743,607e82,62706f,645e5a,676269,6b3169,723838,797956,7a5a7a,7b6b69,7d5b6a,7f3333,833c5a,89586c,8a5c4e,8a6262,8a6857,8a6e46,ab9597,c49789",
+      "quantity": 2,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "26-19-2",
+      "colorArray": "413f52,432929,43313b,443330,445765,472944,4f2131,534d3c,566c70,576160,59504d,5c555a,602a5b,653030,6b684b,6c4d69,6e5c5a,6f4f5c,702c2c,73344e,794c5d,7a4f42",
+      "quantity": 21,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "27-24-2",
+      "colorArray": "",
+      "quantity": 22,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "28-26-1",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "29-27-1",
+      "colorArray": "",
+      "quantity": 14,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "3-1-2",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "30-28-1",
+      "colorArray": "",
+      "quantity": 14,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "31-42-1",
+      "colorArray": "",
+      "quantity": 16,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "32-29-1",
+      "colorArray": "000000,13798C,1A1A84,33BE40,4379CD,53980A,5EBBB5,8B1313,8CCAA8,8DADDB,9DA135,AC9696,B08ED2,CA4D4D,CA75BA",
+      "quantity": 10,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "33-31-1",
+      "colorArray": "",
+      "quantity": 7,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "34-32-2",
+      "colorArray": "",
+      "quantity": 9,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "35-43-1",
+      "colorArray": "",
+      "quantity": 14,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "36-30-1",
+      "colorArray": "",
+      "quantity": 5,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "37-36-1",
+      "colorArray": "413f52,422828,43313b,443331,445765,472944,4f2131,534d3d,566d70,57615f,59514d,5b555a,5f2a5b,653030,6b684b,6c4d69,6d5c5a,6e4e5b,702c2c,73344e,794c5d,7a4f43",
+      "quantity": 17,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "38-38-1",
+      "colorArray": "48495e,492e2e,4a3944,4b3b38,4c6576,4f2f4e,582638,5d5946,607e82,62706e,645d59,676268,6c3169,723737,797856,7a597a,7c6a68,7d5a69,7f3232,833c5a,89586b,8a5b4d",
+      "quantity": 20,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "39-34-1",
+      "colorArray": "be89a4,ccd8e3,e3cbd6,edcff0",
+      "quantity": 3,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "4-2-2",
+      "colorArray": "",
+      "quantity": 15,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "40-40-1",
+      "colorArray": "",
+      "quantity": 12,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "41-41-1",
+      "colorArray": "",
+      "quantity": 12,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "42-35-1",
+      "colorArray": "48495f,4a2e2e,4b3944,4c3b38,4c6576,4f2f4f,582638,5d5a46,617e82,62706e,645d59,676269,6c3169,723737,797957,7a5a7a,7c6b69,7d5b69,803232,833d5a,89586c,8a5c4e",
+      "quantity": 21,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "43-33-1",
+      "colorArray": "48495f,4a2e2e,4b3944,4b3b38,4c6575,4f2f4f,582638,5d5946,607e82,62706e,645d59,676268,6c3169,723737,797957,7a5a7a,7c6a68,7d5b69,7f3333,833c5a,89586c,8a5b4d",
+      "quantity": 29,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "44-47-2",
+      "colorArray": "",
+      "quantity": 21,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "45-45-1",
+      "colorArray": "372e34,384f4d,3a2f6b,454735,48495f,4a2f2f,4a3944,4b3b39,8a6262,8a6b5a,8a6d45,aa9597,c49789",
+      "quantity": 2,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "46-46-1",
+      "colorArray": "",
+      "quantity": 24,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "47-39-1",
+      "colorArray": "494a60,4b3030,4b3b46,4c3c3a,4d6676,503050,59283a,5e5a47,617e82,63706f,645e5a,686369,6c326a,723939,787958,7a5a7a,7c6b69,7d5b6a,7f3434,833e5b,89596c,8a5d4f",
+      "quantity": 25,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "48-48-1",
+      "colorArray": "",
+      "quantity": 9,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "49-44-1",
+      "colorArray": "",
+      "quantity": 20,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "5-3-2",
+      "colorArray": "",
+      "quantity": 15,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "6-16-2",
+      "colorArray": "48495f,4a2e2e,4b3843,4c3b38,4c6575,4f2f4e,582638,5d5a46,617e82,62706f,645e5a,676269,6c3169,723737,797957,7b5a7a,7c6a68,7d5a69,7f3232,833c5a,89586b,8a5c4e",
+      "quantity": 17,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "7-22-2",
+      "colorArray": "",
+      "quantity": 16,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "8-23-2",
+      "colorArray": "",
+      "quantity": 14,
+      "level": 18
+    },
+    {
+      "position": "5",
+      "parts": "9-10-2",
+      "colorArray": "",
+      "quantity": 4,
+      "level": 18
+    }
+  ],
+  "6": [
+    {
+      "position": "6",
+      "parts": "1-51-1",
+      "colorArray": "",
+      "quantity": 30,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "10-26-1",
+      "colorArray": "302B2B,840D09,895137,AB6954,B09191,B9BDE0,CCAE9D,D3593F,E3741E,FF9B9B,FFD5C5,FFD6FF,FFFFFF",
+      "quantity": 36,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "11-27-1",
+      "colorArray": "",
+      "quantity": 5,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "12-25-1",
+      "colorArray": "",
+      "quantity": 7,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "13-28-1",
+      "colorArray": "",
+      "quantity": 19,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "14-40-1",
+      "colorArray": "211E1E,3F508A,5B7246,6C548A,92756B,F9F0F0,F9F0F0_2,FFBF60",
+      "quantity": 9,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "15-31-1",
+      "colorArray": "",
+      "quantity": 29,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "16-32-1",
+      "colorArray": "",
+      "quantity": 29,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "17-41-1",
+      "colorArray": "",
+      "quantity": 5,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "18-42-1",
+      "colorArray": "010101,1b0271,288feb,75fbfb,837979,877985,c08280,efe8e8,fd8c8c",
+      "quantity": 18,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "19-43-1",
+      "colorArray": "200d59,3076b3,36312f,544e4e,60c0be,625861,7f3f3e,d07371,d3cbc0",
+      "quantity": 6,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "2-38-1",
+      "colorArray": "463939,5b7fa9,664543,68998b,708961,766d95,957b6b,9d7199,b2de9a,b3e2ee,b8b4b7,beb9b6,c1adbd,c64032,c7763d,e15956,e63e08,eacfe7",
+      "quantity": 17,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "20-35-1",
+      "colorArray": "483c3b,5c83b1,674543,679c8f,6f8962,766c99,917869,9f719e,b0deee,b5e39e,bfbcbe,c5b1c3,c7c1be,cf3e30,d1793b,e33d08,ee5958,f5d5f4",
+      "quantity": 6,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "21-46-1",
+      "colorArray": "4a3c3b,618aba,6c4746,6da497,779369,7b73a1,a878a6,a98b79,b3b0b2,bce7f4,bdb7b4,bde9a6,cebbcd,d34535,d47e43,ee3e04,f35f5e,fae0fa",
+      "quantity": 37,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "22-34-1",
+      "colorArray": "463939,5c83af,674543,6a9d8f,728c64,78709a,977c6c,a1749e,afdce9,b6e39e,c5b2c2,c7c4c6,cdc8c5,d13d30,d1783a,e43d07,ea5a58,f3d5f0",
+      "quantity": 25,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "23-39-1",
+      "colorArray": "2e3827,3e3532,425e52,4b4654,524746,59718c,5f433f,687d7f,8a6682,923f3a,a6959e,a6c78a,a8a3a6,aba6a4,b16b37,b23d30,cb4616,d0b3cc",
+      "quantity": 6,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "24-44-1",
+      "colorArray": "57514E,705D51,9BA880,9EB0CC,A391A0,C0A595,D1A5F6,DA8A79,F1EAEA,FFD48C",
+      "quantity": 24,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "25-45-1",
+      "colorArray": "58524F,705D51,9BA880,9FB0CC,A491A1,C0A595,D3A6F8,DA8B7A,F1EAEA,FFD48D",
+      "quantity": 28,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "26-22-2",
+      "colorArray": "727BA9,BC998E,C1452F,F1E7F6,FFDFD5,FFF9F5",
+      "quantity": 8,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "27-47-1",
+      "colorArray": "727BA9,BC998E,C1452F,F1E7F6,FFDFD5,FFFFFF",
+      "quantity": 15,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "28-1-2",
+      "colorArray": "727BA9,BC998E,C1452F,F1E7F6,FFDFD5,FFF9F5,FFFFFF",
+      "quantity": 4,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "29-6-2",
+      "colorArray": "",
+      "quantity": 23,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "3-37-1",
+      "colorArray": "463838,5c84b3,664342,689e92,728e66,756d9a,9d8171,9f729e,b3e2f2,b5e59f,bfbcbe,c6b2c6,c7c1be,d13f31,d1793d,eb3a01,f15a59,fad9f9",
+      "quantity": 24,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "30-7-2",
+      "colorArray": "",
+      "quantity": 23,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "31-16-2",
+      "colorArray": "",
+      "quantity": 6,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "32-17-2",
+      "colorArray": "",
+      "quantity": 9,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "33-18-2",
+      "colorArray": "010101,1c0175,2896f8,76fdfc,897f7f,8d7f8b,c18583,efe8e8,fe9191",
+      "quantity": 11,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "34-13-2",
+      "colorArray": "453838,5a82b0,664342,689d90,718c64,756d99,9d8171,9e719d,afdff0,b3e39d,c0bdbf,c4b0c3,c8c2bf,d13d2f,d1783a,e83902,ef5858,f9d6f8",
+      "quantity": 32,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "35-14-2",
+      "colorArray": "453939,5c82ad,674543,6c9e8f,748d65,79709a,9d8171,a0749d,afdeec,b4e29d,c1bec0,c6b2c3,c9c3c0,d03f32,d0793c,e33e08,ec5b59,f6d6f3",
+      "quantity": 11,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "36-48-1",
+      "colorArray": "727BA9,BC998E,C1452F,F1E7F6,FFDFD5,FFFFFF",
+      "quantity": 15,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "37-2-2",
+      "colorArray": "727BA9,BC998E,C1452F,F1E7F6,FFDFD5,FFF9F5,FFFFFF",
+      "quantity": 2,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "38-4-2",
+      "colorArray": "302A2A,808080,9190B6,A8644F,AB8C8C,B7BBDF,CAAA99,EE7253,FF9595,FFCEFF,FFD3C3,FFE2C1,FFFFFF",
+      "quantity": 8,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "39-5-2",
+      "colorArray": "",
+      "quantity": 9,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "4-36-1",
+      "colorArray": "514342,6692c4,734c4b,75b2a4,819f72,867bae,a09b9e,a28675,aba39f,b47fb2,c7f2f3,cbf5b2,d58851,d65341,dfc9dd,f34407,f36564,f5ecf4",
+      "quantity": 7,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "40-3-2",
+      "colorArray": "",
+      "quantity": 7,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "41-8-2",
+      "colorArray": "",
+      "quantity": 22,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "42-9-2",
+      "colorArray": "",
+      "quantity": 22,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "43-10-2",
+      "colorArray": "",
+      "quantity": 17,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "44-12-2",
+      "colorArray": "493d3c,5c82ad,664543,679c8f,718b64,766d98,9b8070,9e719c,b2e0ef,b6e39e,c0bcbf,c6b2c4,c8c3bf,d03f30,d1793c,e83d07,ee5a59,f7d8f6",
+      "quantity": 7,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "45-11-2",
+      "colorArray": "443838,5b80aa,654442,699b8d,718a63,756c95,877062,9d7199,abd8e6,b0dc99,c1aebe,c6c3c5,cdc7c5,ce3b2e,cf7638,e13e09,e55957,f0d0ed",
+      "quantity": 22,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "46-15-2",
+      "colorArray": "39302e,474153,553f38,55687b,574c4a,5d4557,6f6c6a,71656b,747173,773933,792c23,86a0a4,8c798a,9aaf78,a06131,bc4c20",
+      "quantity": 4,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "47-19-2",
+      "colorArray": "58524F,5B5555,6B7460,705D51,9BA880,9FB0CC,AE9CA9,C0A595,D3A6F8,E38F7D,F1EAEA,FFD48D",
+      "quantity": 17,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "48-20-2",
+      "colorArray": "56504D,595353,69725E,6F5C50,9AA77F,9EAFCC,AD9BA8,C0A494,D0A3F4,E38D7C,F0EAEA,FFD38B",
+      "quantity": 17,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "49-21-2",
+      "colorArray": "514342,6a96c8,744d4c,77b4a5,81a072,867daf,a7a2a5,aaa29e,b481b2,bf9d88,c9edf2,cdf0b4,d65744,d68a53,dbc9d8,f04507,f46967,f8ebf7",
+      "quantity": 27,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "5-23-1",
+      "colorArray": "",
+      "quantity": 14,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "50-50-1",
+      "colorArray": "",
+      "quantity": 10,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "51-49-2",
+      "colorArray": "",
+      "quantity": 8,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "52-52-1",
+      "colorArray": "",
+      "quantity": 18,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "53-53-2",
+      "colorArray": "",
+      "quantity": 18,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "54-54-1",
+      "colorArray": "",
+      "quantity": 8,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "6-24-1",
+      "colorArray": "",
+      "quantity": 14,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "7-33-1",
+      "colorArray": "",
+      "quantity": 17,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "8-29-1",
+      "colorArray": "",
+      "quantity": 25,
+      "level": 19
+    },
+    {
+      "position": "6",
+      "parts": "9-30-1",
+      "colorArray": "",
+      "quantity": 25,
+      "level": 19
+    }
+  ],
+  "7": [
+    {
+      "position": "7",
+      "parts": "1-14-1",
+      "colorArray": "",
+      "quantity": 15,
+      "level": 20
+    },
+    {
+      "position": "7",
+      "parts": "10-11-1",
+      "colorArray": "",
+      "quantity": 9,
+      "level": 20
+    },
+    {
+      "position": "7",
+      "parts": "11-3-1",
+      "colorArray": "",
+      "quantity": 4,
+      "level": 20
+    },
+    {
+      "position": "7",
+      "parts": "12-2-2",
+      "colorArray": "",
+      "quantity": 11,
+      "level": 20
+    },
+    {
+      "position": "7",
+      "parts": "13-12-2",
+      "colorArray": "",
+      "quantity": 12,
+      "level": 20
+    },
+    {
+      "position": "7",
+      "parts": "14-13-1",
+      "colorArray": "",
+      "quantity": 11,
+      "level": 20
+    },
+    {
+      "position": "7",
+      "parts": "15-15-1",
+      "colorArray": "",
+      "quantity": 14,
+      "level": 20
+    },
+    {
+      "position": "7",
+      "parts": "16-16-2",
+      "colorArray": "",
+      "quantity": 7,
+      "level": 20
+    },
+    {
+      "position": "7",
+      "parts": "17-17-2",
+      "colorArray": "",
+      "quantity": 10,
+      "level": 20
+    },
+    {
+      "position": "7",
+      "parts": "2-1-1",
+      "colorArray": "",
+      "quantity": 4,
+      "level": 20
+    },
+    {
+      "position": "7",
+      "parts": "3-8-2",
+      "colorArray": "",
+      "quantity": 11,
+      "level": 20
+    },
+    {
+      "position": "7",
+      "parts": "4-9-1",
+      "colorArray": "",
+      "quantity": 9,
+      "level": 20
+    },
+    {
+      "position": "7",
+      "parts": "5-5-1",
+      "colorArray": "",
+      "quantity": 29,
+      "level": 20
+    },
+    {
+      "position": "7",
+      "parts": "6-7-1",
+      "colorArray": "",
+      "quantity": 56,
+      "level": 20
+    },
+    {
+      "position": "7",
+      "parts": "7-4-2",
+      "colorArray": "",
+      "quantity": 22,
+      "level": 20
+    },
+    {
+      "position": "7",
+      "parts": "8-6-2",
+      "colorArray": "",
+      "quantity": 44,
+      "level": 20
+    },
+    {
+      "position": "7",
+      "parts": "9-10-2",
+      "colorArray": "",
+      "quantity": 9,
+      "level": 20
+    }
+  ],
+  "8": [
+    {
+      "position": "8",
+      "parts": "1-51-1",
+      "colorArray": "2a7bbf,9cb1c5,9cddba,a3b5d8,a4dece,a5a0b2,a6a2a1,a6b4d3",
+      "quantity": 9,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "10-1-1",
+      "colorArray": "DBC7B8,E0DCCF,F3D8CB,F7F2DB",
+      "quantity": 3,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "11-5-1",
+      "colorArray": "211E1D,FAF5F5",
+      "quantity": 7,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "12-2-1",
+      "colorArray": "",
+      "quantity": 4,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "13-19-1",
+      "colorArray": "8CA5BD,9698D5,999594,A09CAF,BCC1BE,BCC9E4,BEB3C6,C1B2D1,C3D0B9,C8A9F8,D6C2B0,DCD3E3,E7CBD9,E9E5E5,EDD9EC",
+      "quantity": 5,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "14-3-1",
+      "colorArray": "",
+      "quantity": 7,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "15-20-1",
+      "colorArray": "8ca5bd,ADADCD,B2B2DA,C3D0B9,D0CABE,DCD3E3,E1DDD5,E7BDD3,E7CBD9,a8b0b2",
+      "quantity": 3,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "16-21-1",
+      "colorArray": "1B4896,2A506F,33231E,333D47,565E67,6B4682,773E01",
+      "quantity": 3,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "17-22-1",
+      "colorArray": "2A506F,2D2B54,537EC7,789537,7C5F4E,84612C,9F27AF,A35A0B,A6CAE5,BCE680,BEFDC8",
+      "quantity": 3,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "18-7-1",
+      "colorArray": "9691A7,97DDCA,999594,A7ABF8,A8B5D2,AEB8B0,B2B2DA,B7A499,BEB3C6,CAD5A9,D3E4F5,DCD3E3,F7D2F8",
+      "quantity": 2,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "19-6-1",
+      "colorArray": "8CA5BD,9691A7,97DDCA,999594,A09CAF,A7ABF8,A8B5D2,A9872A,B1A0A7,B2B2DA,B6A79E,CAB29D_2,D2D88A,D3E4F5,afc2bc,b1afaf,b3cdb8,c7a7c7,cad2cb",
+      "quantity": 14,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "2-53-1",
+      "colorArray": "e1f2f6,e7edf5,f0dcce,f1dae5,f4edd6,f8e3f6,fbeada",
+      "quantity": 9,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "20-15-1",
+      "colorArray": "A8B5D2,B3CDB8,D3E4F5,D4CADB,D9A9DC,E7BDD3,E8EBEC,EAE4D1,EDD9EC,F3E8DB",
+      "quantity": 11,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "21-16-1",
+      "colorArray": "A8B5D2,B3CDB8,D3E4F5,D4CADB,D9A9DC,E7BDD3,E8EBEC,EAE4D1,EDD9EC,F3E8DB",
+      "quantity": 11,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "22-11-1",
+      "colorArray": "6678B7,A5B99F,B2939C,B7A499,C7BDB5,CAB29D,D3E4F5,D4CADB,DCD3E3,E1DDD5,E7CBD9,E8EBEC,EAE4D1,F7D2F8",
+      "quantity": 9,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "23-12-1",
+      "colorArray": "",
+      "quantity": 12,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "24-10-1",
+      "colorArray": "6287A7,747070,83868E,878EF8,8E9676,95808A,9699D0,98BEA1,9C897D,9E7721,9E8677,A7858B,B489B6,B4A89C,D1C6DC,D8D4C9,E1A8C6",
+      "quantity": 6,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "25-17-1",
+      "colorArray": "6567A2,7F87F7,86FCD5,958174,AF84F7,BFCD6F,C984D0,D8979E,DFA2C2,E8CEB5",
+      "quantity": 14,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "26-18-1",
+      "colorArray": "6567A2,7F87F7,86FCD5,958174,AF84F7,BFCD6F,C984D0,D8979E,DFA2C2,E8CEB5",
+      "quantity": 14,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "27-23-1",
+      "colorArray": "",
+      "quantity": 14,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "28-24-1",
+      "colorArray": "",
+      "quantity": 14,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "29-33-2",
+      "colorArray": "9CC3B8,A2A396,A4A0A0,B0CAC2,B2A8B0,BA9EA7,C9C1AC,CDB0CC,CECACA,CFD8D4,D1C6B2,D3DEE3,DEE1B0,E1D2A2,E96859,EAC4D7",
+      "quantity": 19,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "3-54-2",
+      "colorArray": "e1f2f6,e7e0e8,f0dcce,f1dae5,f4edd6,fbeada",
+      "quantity": 9,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "30-32-2",
+      "colorArray": "71AC9B,7B917E,7D7978,8D7A80,918590,9C7682,9EA1A2,A7BCAC,A9B0AD,B2A98A,B890BA,C7D16E,CEBDC6,D5BDCB,D5C27C,D76146",
+      "quantity": 14,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "31-37-2",
+      "colorArray": "3683C3,A1B5C7,AAE1D2,ABA7A7,AE902E,BBBBD4,C1BFAE,D1B6D0,E3A5C5,EC695D",
+      "quantity": 4,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "32-38-2",
+      "colorArray": "A4C7BD,A9AA9E,ABA7A7,ABB7AA,B5CDAF,BDC1C3,BFA5AD,E3D2DA,E3D5A9,EBC8D9",
+      "quantity": 4,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "33-28-2",
+      "colorArray": "",
+      "quantity": 6,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "34-25-2",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "35-29-2",
+      "colorArray": "",
+      "quantity": 12,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "36-26-2",
+      "colorArray": "6B808D,6F8FA8,7F7C7B,89859A,8EA489,9697b9,AD9CBE,B3A8A0,C693C9,D96148",
+      "quantity": 6,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "37-45-2",
+      "colorArray": "9E9389,BBD3CC,C1BCBC,C6D8C8,C8BDC0,C8D8D3,D2D7BD,D9D2C4,DCC7DA,E9DBE1,FBD2D2",
+      "quantity": 5,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "38-49-2",
+      "colorArray": "ABA7A7,B1ADBC,B6A8AC,B6CABE,B6CDC6,C4CCA8,E3D2DA,E4B1C4",
+      "quantity": 4,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "39-47-2",
+      "colorArray": "A2C6BC,AAA6A5,B0BCB1,B7ADB5,CCC5B1,CCC7DD,D0B5CF,D7C2B3,FBC4C4",
+      "quantity": 3,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "4-52-1",
+      "colorArray": "3b82bb,e1ebe2,eae2c1,efeadd,f3e8da",
+      "quantity": 6,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "40-46-2",
+      "colorArray": "C0D6CF,C5C0C0,C9CFC8,D2BFC4,D4D5D6,DCD5CD,E9E8CA,EADFC2,F0D6E2,FBD4D4",
+      "quantity": 5,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "41-39-2",
+      "colorArray": "435539,526d83,585776,625352,6f784c,70719e,745db3,7b5768,917147,ac7c73",
+      "quantity": 10,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "42-40-2",
+      "colorArray": "435539,526d83,585776,625352,6f784c,70719e,745db3,7b5768,917147,ac7c73",
+      "quantity": 10,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "43-48-2",
+      "colorArray": "0C355A,253544,5B513D,5F3625,6A2F48,702179,727B77,94B1A7,988D4D,9CA990,B4ACAC,BAC4C3,C081B6",
+      "quantity": 3,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "44-31-2",
+      "colorArray": "ABA7A7,B1ADBC,B8AFB6,BFA5AD,CECDCD,DADEA0,E3D5A9,EBC8D9,EC695D,F1F8A0,F5EADF,F6F8CA,FBE0E0,FBE9AB,FBF1F5",
+      "quantity": 10,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "45-30-2",
+      "colorArray": "A4C7BD,ABA7A7,ABB7AA,D1B6D0,D4CAB8,E3A5C5,EBC8D9,b6a8ac,bfa5ad,cec5ba,e3d5a9",
+      "quantity": 8,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "46-27-2",
+      "colorArray": "",
+      "quantity": 4,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "47-35-2",
+      "colorArray": "3683C3,ABA7A7,B1ADBC,C7C1B4,C7CFAD,D1B7F8,D3BFAD,D9DE9E,E3A5C5,EC695D",
+      "quantity": 9,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "48-36-2",
+      "colorArray": "188869,214726,263087,343907,4F461A,595982,626A36,74918A,773D08,94C8F5,A025B0",
+      "quantity": 12,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "49-34-2",
+      "colorArray": "0F178F,490B0B,5B633B,5C523E,6B6F49,736125,74AB73,79415C,8C7657,A17D9C,BE92C2,C56A42,CC6799,FBD210",
+      "quantity": 6,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "5-9-1",
+      "colorArray": "547DA0,726E8B,8B757F,9A721E,9BAD6F,A99E89,AD7FB0,BFDCF6,C1B4CE,C5B2BC,CDC1DA,DBA67C,DEA1C1,DEB6CB,E1DCBE,E1DDDD",
+      "quantity": 5,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "50-41-2",
+      "colorArray": "3D87A4,85A380,8990F7,94AFA7,96818B,9F8778,A59E88,AD99C4,D46A5B,DB9CA5",
+      "quantity": 21,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "51-42-2",
+      "colorArray": "3D87A4,85A380,8990F7,94AFA7,96818B,9F8778,A59E88,AD99C4,D46A5B,DB9CA5",
+      "quantity": 21,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "52-43-2",
+      "colorArray": "",
+      "quantity": 14,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "53-44-2",
+      "colorArray": "",
+      "quantity": 14,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "54-50-2",
+      "colorArray": "ABA7A7,B7C1D8,BBBBD4,C1BFAE,D1B6D0,D3BFAD,DAE7F5,E3A5C5",
+      "quantity": 11,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "55-55-1",
+      "colorArray": "ccb87a,d0d6e7,d1eae3,d2cdcd,dcdcdd,e5efeb,e9e9e8,eaebea,ecd5ea,ede8e0",
+      "quantity": 12,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "56-56-2",
+      "colorArray": "ccb87a,d0d6e7,d1eae3,d2cdcd,dcdcdd,e5efeb,e9e9e8,eaebea,ecd5ea,ede8e0",
+      "quantity": 12,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "6-8-1",
+      "colorArray": "547DA0,726E8B,7E94C0,818E74,8B757F,8C90CC,928F8F,9A721E,9BAD6F,AD7FB0,B2906F,B29EB1,B2C0B5,BBDBC3,BFDCF6,C5B2BC,DBA67C,DEA1C1",
+      "quantity": 11,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "7-13-1",
+      "colorArray": "8CA5BD,9691A7,97DDCA,A7ABF8,A9872A,ABC493,B6A79E,C7A7C7,DE92BA,E46654",
+      "quantity": 4,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "8-14-1",
+      "colorArray": "8CA5BD,9691A7,999594,A09CAF,A8B5D2,B2B2DA,D0DCE2,DE92BA,DECBDD,E3C3A3",
+      "quantity": 4,
+      "level": 21
+    },
+    {
+      "position": "8",
+      "parts": "9-4-1",
+      "colorArray": "DBC7B8,E0DCCF,F3D8CB,F7F2DB",
+      "quantity": 3,
+      "level": 21
+    }
+  ],
+  "9": [
+    {
+      "position": "9",
+      "parts": "1-19-2",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 22
+    },
+    {
+      "position": "9",
+      "parts": "10-29-2",
+      "colorArray": "000000,FFFFFF",
+      "quantity": 6,
+      "level": 22
+    },
+    {
+      "position": "9",
+      "parts": "11-30-2",
+      "colorArray": "000000,FFFFFF",
+      "quantity": 6,
+      "level": 22
+    },
+    {
+      "position": "9",
+      "parts": "12-31-2",
+      "colorArray": "000000,FFFFFF",
+      "quantity": 12,
+      "level": 22
+    },
+    {
+      "position": "9",
+      "parts": "13-27-2",
+      "colorArray": "000000,0000FF,00FF00,766969,9900FF,9FC5E8,E2D7D7,EAD1DC,FF0000,FF9900,FFFF00,FFFFFF",
+      "quantity": 12,
+      "level": 22
+    },
+    {
+      "position": "9",
+      "parts": "14-28-2",
+      "colorArray": "000000,0000FF,00FF00,766969,9900FF,9FC5E8,E2D7D7,EAD1DC,FF0000,FF9900,FFFF00,FFFFFF",
+      "quantity": 12,
+      "level": 22
+    },
+    {
+      "position": "9",
+      "parts": "15-26-2",
+      "colorArray": "000000,0000FF,00FF00,766969,9900FF,9FC5E8,E2D7D7,EAD1DC,FF0000,FF9900,FFFF00,FFFFFF",
+      "quantity": 15,
+      "level": 22
+    },
+    {
+      "position": "9",
+      "parts": "16-34-2",
+      "colorArray": "",
+      "quantity": 15,
+      "level": 22
+    },
+    {
+      "position": "9",
+      "parts": "17-35-2",
+      "colorArray": "",
+      "quantity": 15,
+      "level": 22
+    },
+    {
+      "position": "9",
+      "parts": "18-1-1",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 22
+    },
+    {
+      "position": "9",
+      "parts": "19-3-1",
+      "colorArray": "0000FF,00FF00,444444,6FA8DC,9900FF,B18080,CCCCCC,FF0000,FF00FF,FFFF00",
+      "quantity": 2,
+      "level": 22
+    },
+    {
+      "position": "9",
+      "parts": "2-21-2",
+      "colorArray": "000000,0000FF,6AA84F,6FA8DC,746666,9900FF,CCCCCC,FF0000,FF00FF,FFFF00",
+      "quantity": 2,
+      "level": 22
+    },
+    {
+      "position": "9",
+      "parts": "20-5-1",
+      "colorArray": "",
+      "quantity": 5,
+      "level": 22
+    },
+    {
+      "position": "9",
+      "parts": "21-4-1",
+      "colorArray": "",
+      "quantity": 6,
+      "level": 22
+    },
+    {
+      "position": "9",
+      "parts": "22-2-1",
+      "colorArray": "CCCCCC,FFFFFF",
+      "quantity": 11,
+      "level": 22
+    },
+    {
+      "position": "9",
+      "parts": "23-6-1",
+      "colorArray": "",
+      "quantity": 9,
+      "level": 22
+    },
+    {
+      "position": "9",
+      "parts": "24-7-1",
+      "colorArray": "",
+      "quantity": 2,
+      "level": 22
+    },
+    {
+      "position": "9",
+      "parts": "25-15-1",
+      "colorArray": "",
+      "quantity": 15,
+      "level": 22
+    },
+    {
+      "position": "9",
+      "parts": "26-16-1",
+      "colorArray": "",
+      "quantity": 15,
+      "level": 22
+    },
+    {
+      "position": "9",
+      "parts": "27-12-1",
+      "colorArray": "000000,FFFFFF",
+      "quantity": 8,
+      "level": 22
+    },
+    {
+      "position": "9",
+      "parts": "28-13-1",
+      "colorArray": "666666,FFFFFF",
+      "quantity": 9,
+      "level": 22
+    },
+    {
+      "position": "9",
+      "parts": "29-14-1",
+      "colorArray": "000000,FFFFFF",
+      "quantity": 9,
+      "level": 22
+    },
+    {
+      "position": "9",
+      "parts": "3-22-2",
+      "colorArray": "",
+      "quantity": 7,
+      "level": 22
+    },
+    {
+      "position": "9",
+      "parts": "30-9-1",
+      "colorArray": "000000,0000FF,00FF00,443C3C,9900FF,9FC5E8,B9ADAD,EAD1DC,FF0000,FF9900,FFFF00,FFFFFF",
+      "quantity": 15,
+      "level": 22
+    },
+    {
+      "position": "9",
+      "parts": "31-11-1",
+      "colorArray": "000000,0000FF,00FF00,443C3C,9900FF,9FC5E8,B9ADAD,EAD1DC,FF0000,FF9900,FFFF00,FFFFFF",
+      "quantity": 10,
+      "level": 22
+    },
+    {
+      "position": "9",
+      "parts": "32-18-1",
+      "colorArray": "",
+      "quantity": 3,
+      "level": 22
+    },
+    {
+      "position": "9",
+      "parts": "33-10-1",
+      "colorArray": "000000,0000FF,00FF00,443C3C,9900FF,9FC5E8,B9ADAD,EAD1DC,FF0000,FF9900,FFFF00,FFFFFF",
+      "quantity": 8,
+      "level": 22
+    },
+    {
+      "position": "9",
+      "parts": "34-8-1",
+      "colorArray": "000000,0000FF,00FF00,443C3C,9900FF,9FC5E8,B9ADAD,EAD1DC,FF0000,FF9900,FFFF00,FFFFFF",
+      "quantity": 17,
+      "level": 22
+    },
+    {
+      "position": "9",
+      "parts": "35-17-1",
+      "colorArray": "",
+      "quantity": 16,
+      "level": 22
+    },
+    {
+      "position": "9",
+      "parts": "36-36-2",
+      "colorArray": "999999,CCCCCC,EEEEEE",
+      "quantity": 3,
+      "level": 22
+    },
+    {
+      "position": "9",
+      "parts": "4-20-2",
+      "colorArray": "CCCCCC,FFFFFF",
+      "quantity": 9,
+      "level": 22
+    },
+    {
+      "position": "9",
+      "parts": "5-23-2",
+      "colorArray": "",
+      "quantity": 11,
+      "level": 22
+    },
+    {
+      "position": "9",
+      "parts": "6-24-2",
+      "colorArray": "",
+      "quantity": 2,
+      "level": 22
+    },
+    {
+      "position": "9",
+      "parts": "7-25-2",
+      "colorArray": "",
+      "quantity": 7,
+      "level": 22
+    },
+    {
+      "position": "9",
+      "parts": "8-32-2",
+      "colorArray": "",
+      "quantity": 15,
+      "level": 22
+    },
+    {
+      "position": "9",
+      "parts": "9-33-2",
+      "colorArray": "",
+      "quantity": 15,
+      "level": 22
+    }
+  ]
+}
